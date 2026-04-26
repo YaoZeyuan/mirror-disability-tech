@@ -43,6 +43,14 @@ const routes = [
       title: '开源未来',
     },
   },
+  {
+    path: '/teams',
+    name: 'teams',
+    component: PlaceholderPage,
+    meta: {
+      title: '策展团队',
+    },
+  },
 ]
 
 const router = createRouter({

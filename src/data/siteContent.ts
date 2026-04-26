@@ -11,7 +11,9 @@ export type HeroContent = {
   eyebrow: string
   title: string
   supportText: string
+  leftImage: string
   heroImage: string
+  centerAccentImage: string
   logoImage: string
 }
 
@@ -71,14 +73,19 @@ export const navigationGroups: NavigationGroup[] = [
     ],
   },
   { label: '开源未来', href: '/#open-futures', children: [{ label: '进入专题页', href: '/openfutures' }] },
+  { label: '策展团队', href: '/teams' },
 ]
 
 export const heroContent: HeroContent = {
   eyebrow: '多元宇宙:',
   title: '残障、科技与共建未来',
   supportText: 'with the support of',
+  leftImage:
+    'https://static.wixstatic.com/media/ad9044_789cc1259c904d3bbb337e43aad60ae2~mv2.png/v1/fill/w_1630,h_1590,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-05.png',
   heroImage:
     'https://static.wixstatic.com/media/ad9044_4f43bc78251c4bc4a914458d1b9ad320~mv2.png/v1/fill/w_1572,h_1528,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-06.png',
+  centerAccentImage:
+    'https://static.wixstatic.com/media/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png/v1/fill/w_470,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png',
   logoImage:
     'https://static.wixstatic.com/media/ad9044_f7c619d9e96242efb67f96f77ae0b231~mv2.png/v1/fill/w_872,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-09.png',
 }
@@ -152,5 +159,9 @@ export const placeholderPages: Record<
   openfutures: {
     title: '开源未来',
     description: '首页区块已经完成，专题正文页会在获得对应原始页面配置后继续实现。',
+  },
+  teams: {
+    title: '策展团队',
+    description: '团队页入口已接通，后续可在补全原站资源后继续还原。',
   },
 }

@@ -8,16 +8,16 @@ defineProps<{
 
 <template>
   <section class="hero">
-    <div class="hero__backdrop">
-      <img class="hero__image" :src="content.heroImage" alt="多元宇宙首页主视觉" />
-    </div>
-    <div class="hero__clock" aria-hidden="true"></div>
-    <div class="hero__figure hero__figure--left" aria-hidden="true"></div>
-    <div class="hero__figure hero__figure--right" aria-hidden="true"></div>
+    <div class="hero__stage">
+      <img class="hero__left-image" :src="content.leftImage" alt="" aria-hidden="true" />
+      <div class="hero__clock" aria-hidden="true"></div>
+      <img class="hero__accent" :src="content.centerAccentImage" alt="" aria-hidden="true" />
+      <img class="hero__right-image" :src="content.heroImage" alt="" aria-hidden="true" />
 
-    <div class="hero__content">
-      <p class="hero__eyebrow">{{ content.eyebrow }}</p>
-      <h1 class="hero__title">{{ content.title }}</h1>
+      <div class="hero__content">
+        <p class="hero__eyebrow">{{ content.eyebrow }}</p>
+        <h1 class="hero__title">{{ content.title }}</h1>
+      </div>
 
       <div class="hero__support">
         <p>{{ content.supportText }}</p>
@@ -31,127 +31,167 @@ defineProps<{
 .hero {
   position: relative;
   overflow: hidden;
-  min-height: min(88vh, 940px);
-  border-bottom: 1px solid var(--border);
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(240, 242, 247, 0.92));
+  min-height: 796px;
+  background:
+    radial-gradient(circle at 50% 28%, rgba(255, 255, 255, 0.92), rgba(233, 239, 246, 0.86) 45%, rgba(221, 228, 236, 0.96));
 }
 
-.hero__backdrop {
+.hero__stage {
   position: absolute;
   inset: 0;
 }
 
-.hero__image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0.9;
-  filter: saturate(0.9);
+.hero__left-image,
+.hero__right-image,
+.hero__accent,
+.hero__clock,
+.hero__content,
+.hero__support {
+  position: absolute;
+}
+
+.hero__left-image {
+  left: calc((100vw - 980px) / 2 - 808px);
+  top: 50px;
+  width: 815px;
+  height: 795px;
 }
 
 .hero__clock {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: min(56vw, 620px);
-  aspect-ratio: 1;
+  left: calc((100vw - 980px) / 2 + 192px);
+  top: 163px;
+  width: 596px;
+  height: 596px;
   border-radius: 50%;
-  transform: translate(-50%, -48%);
   background:
-    radial-gradient(circle, rgba(255, 255, 255, 0.9) 0 18%, transparent 19%),
-    repeating-conic-gradient(from 0deg, rgba(29, 103, 205, 0.55) 0deg 1.5deg, transparent 1.5deg 15deg);
-  mask: radial-gradient(circle, transparent 0 58%, black 59% 61%, transparent 62%);
-  opacity: 0.8;
+    radial-gradient(circle at center, rgba(226, 226, 221, 0.82) 0 23%, transparent 24%),
+    repeating-conic-gradient(from 0deg, rgba(29, 103, 205, 0.82) 0deg 1deg, transparent 1deg 30deg);
+  mask: radial-gradient(circle, transparent 0 41%, rgba(0, 0, 0, 1) 42% 46%, transparent 47%);
+  opacity: 0.16;
 }
 
-.hero__figure {
-  position: absolute;
-  top: 18%;
-  width: 62px;
-  height: 126px;
-  background: var(--ink);
-  mask-repeat: no-repeat;
-  mask-position: center;
-  mask-size: contain;
-  opacity: 0.95;
+.hero__accent {
+  left: calc((100vw - 980px) / 2 + 372px);
+  top: 343px;
+  width: 235px;
+  height: 236px;
+  opacity: 0.34;
+  filter: saturate(0.65);
 }
 
-.hero__figure--left {
-  left: 3%;
-  mask-image: radial-gradient(circle at 50% 12%, black 0 18%, transparent 19%), linear-gradient(black, black),
-    linear-gradient(black, black), linear-gradient(black, black), linear-gradient(black, black);
-  mask-size: 24px 24px, 12px 58px, 10px 52px, 10px 52px, 42px 10px;
-  mask-position: center 0, center 26px, 20px 74px, 42px 74px, center 42px;
-}
-
-.hero__figure--right {
-  right: 3%;
-  top: 26%;
-  width: 86px;
-  height: 86px;
-  border-radius: 50%;
-  mask-image:
-    radial-gradient(circle at 68% 18%, black 0 12%, transparent 13%),
-    radial-gradient(circle at 28% 82%, black 0 10%, transparent 11%),
-    radial-gradient(circle at 72% 78%, black 0 10%, transparent 11%),
-    radial-gradient(circle at 50% 58%, transparent 0 22%, black 23% 38%, transparent 39%);
+.hero__right-image {
+  left: calc((100vw - 980px) / 2 + 988px);
+  top: 81px;
+  width: 786px;
+  height: 764px;
 }
 
 .hero__content {
-  position: relative;
+  left: calc((100vw - 980px) / 2 + 124px);
+  top: 364px;
   z-index: 1;
-  display: grid;
-  place-items: center;
-  min-height: inherit;
-  padding: 160px 24px 88px;
-  text-align: center;
+  width: 877px;
 }
 
 .hero__eyebrow {
   margin: 0;
   font-family: var(--font-display);
-  font-size: clamp(1.8rem, 3vw, 3.25rem);
-  letter-spacing: 0.16em;
+  font-size: 50px;
+  letter-spacing: 0.1em;
+  line-height: 1.2;
 }
 
 .hero__title {
-  margin: 0.3em 0 1.4em;
+  margin: 5px 0 0;
   font-family: var(--font-display);
-  font-size: clamp(2.75rem, 5vw, 5.6rem);
+  font-size: 70px;
   font-weight: 800;
-  letter-spacing: 0.08em;
-  line-height: 1.08;
+  letter-spacing: 0.1em;
+  line-height: 1.2;
 }
 
 .hero__support {
+  left: calc((100vw - 980px) / 2 + 264px);
+  top: 734px;
   display: grid;
-  gap: 12px;
+  gap: 4px;
   justify-items: center;
+  width: 450px;
 }
 
 .hero__support p {
   margin: 0;
-  color: rgba(16, 16, 16, 0.5);
-  font-size: 15px;
-  letter-spacing: 0.08em;
+  color: rgba(16, 16, 16, 0.42);
+  font-size: 16px;
 }
 
 .hero__support img {
-  width: min(360px, 76vw);
+  width: 436px;
+  height: 65px;
 }
 
 @media (max-width: 860px) {
   .hero {
-    min-height: auto;
+    min-height: 620px;
   }
 
-  .hero__content {
-    padding-top: 112px;
-    padding-bottom: 56px;
+  .hero__left-image {
+    left: -420px;
+    top: 120px;
+    width: 520px;
+    height: auto;
   }
 
   .hero__clock {
-    width: min(78vw, 420px);
+    left: 50%;
+    top: 140px;
+    width: min(88vw, 430px);
+    height: min(88vw, 430px);
+    transform: translateX(-50%);
+  }
+
+  .hero__accent {
+    left: 50%;
+    top: 280px;
+    width: 164px;
+    height: 165px;
+    transform: translateX(-50%);
+  }
+
+  .hero__right-image {
+    right: -180px;
+    left: auto;
+    top: 180px;
+    width: 430px;
+    height: auto;
+  }
+
+  .hero__content {
+    left: 24px;
+    top: 250px;
+    width: calc(100% - 48px);
+  }
+
+  .hero__eyebrow {
+    font-size: 30px;
+  }
+
+  .hero__title {
+    font-size: 44px;
+    line-height: 1.15;
+  }
+
+  .hero__support {
+    left: 50%;
+    top: auto;
+    bottom: 32px;
+    width: min(436px, calc(100% - 40px));
+    transform: translateX(-50%);
+  }
+
+  .hero__support img {
+    width: 100%;
+    height: auto;
   }
 }
 </style>

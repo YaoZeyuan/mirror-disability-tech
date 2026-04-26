@@ -12,7 +12,7 @@ useHead({
 
 <template>
   <div class="home-page">
-    <SiteHeader :groups="navigationGroups" />
+    <SiteHeader :groups="navigationGroups" preview-open-label="无限身心" />
     <HeroSection :content="heroContent" />
     <ThemeSection :section="homepageSections[0]" tone="mist" />
     <ThemeSection :section="homepageSections[1]" tone="plain" />

@@ -4,6 +4,41 @@
   prefixes: mdi;
 }
 
+@font-face {
+  font-family: 'AvenirLTW01-85Heavy';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2')
+    format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AvenirLTW01-35Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.parastorage.com/fonts/v2/0e124ae0-4c13-46e2-9e3b-1a60b4e1f0e8/v1/avenir-lt-w01_35-light1475496.woff2')
+    format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FuturaLTW01-Book';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2')
+    format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FuturaLTW01-Light';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://static.parastorage.com/fonts/v2/e4af272ccee01ff0-s.p.woff2') format('woff2');
+  font-display: swap;
+}
+
 :root {
   --page-bg: #efefef;
   --surface: #f6f6f2;
@@ -14,8 +49,9 @@
   --accent-soft: #dbe9ff;
   --border: rgba(16, 16, 16, 0.14);
   --shadow-soft: 0 22px 48px rgba(16, 16, 16, 0.08);
-  --font-display: "Avenir Next", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  --font-body: "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-display: 'AvenirLTW01-85Heavy', "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-body: 'AvenirLTW01-35Light', "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-futura: 'FuturaLTW01-Book', 'AvenirLTW01-35Light', sans-serif;
 }
 
 html {
