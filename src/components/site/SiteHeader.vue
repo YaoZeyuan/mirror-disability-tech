@@ -37,12 +37,15 @@ onBeforeUnmount(() => {
 
 <template>
   <div class="site-shell">
+    <!--
+    复制出的站点，不需要该提示 
     <div class="promo-bar">
       <span class="promo-bar__brand">WIX</span>
       <span class="promo-bar__divider"></span>
       <span class="promo-bar__copy">本網站是在 Wix 建立。您也來建立網站吧！</span>
       <a class="promo-bar__button" href="https://www.wix.com/" target="_blank" rel="noreferrer">立即開始</a>
-    </div>
+    </div> 
+    -->
 
     <header class="header">
       <div ref="localeMenuRef" class="header__utility">
@@ -81,7 +84,8 @@ onBeforeUnmount(() => {
             class="nav-group__link"
             :class="{
               'nav-group__link--home': group.label === '首页' && activeGroupLabel === '首页',
-              'nav-group__link--active-blue': activeGroupLabel === group.label && group.label !== '首页' && group.label !== '开源未来',
+              'nav-group__link--active-blue':
+                activeGroupLabel === group.label && group.label !== '首页' && group.label !== '开源未来',
               'nav-group__link--active-gold': activeGroupLabel === group.label && group.label === '开源未来',
             }"
             :to="group.href"
@@ -89,12 +93,7 @@ onBeforeUnmount(() => {
             {{ group.label }}
           </RouterLink>
           <div v-if="group.children?.length" class="nav-group__panel">
-            <RouterLink
-              v-for="child in group.children"
-              :key="child.label"
-              class="nav-group__child"
-              :to="child.href"
-            >
+            <RouterLink v-for="child in group.children" :key="child.label" class="nav-group__child" :to="child.href">
               {{ child.label }}
             </RouterLink>
           </div>
