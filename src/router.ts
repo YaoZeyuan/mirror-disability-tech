@@ -1,5 +1,6 @@
 import ArchivedPage from '@/pages/ArchivedPage.vue'
 import IndexPage from '@/pages/IndexPage.vue'
+import OpenFuturesPage from '@/pages/OpenFuturesPage.vue'
 import TeamsPage from '@/pages/TeamsPage.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
@@ -39,7 +40,7 @@ const routes = [
   {
     path: '/openfutures',
     name: 'openfutures',
-    component: ArchivedPage,
+    component: OpenFuturesPage,
     meta: {
       title: '开源未来',
     },
