@@ -1,10 +1,38 @@
 <script setup lang="ts">
 import type { NavigationGroup } from '@/data/siteContent'
 
-defineProps<{
+const props = defineProps<{
   groups: NavigationGroup[]
-  previewOpenLabel?: string
+  activeLabel?: string
 }>()
+
+const localeMenuOpen = ref(false)
+const localeMenuRef = useTemplateRef<HTMLElement>('localeMenuRef')
+
+const activeGroupLabel = computed(() => props.activeLabel ?? '首页')
+
+function toggleLocaleMenu() {
+  localeMenuOpen.value = !localeMenuOpen.value
+}
+
+function closeLocaleMenu(event: MouseEvent) {
+  if (!localeMenuRef.value) {
+    return
+  }
+
+  const target = event.target
+  if (target instanceof Node && !localeMenuRef.value.contains(target)) {
+    localeMenuOpen.value = false
+  }
+}
+
+onMounted(() => {
+  window.addEventListener('click', closeLocaleMenu)
+})
+
+onBeforeUnmount(() => {
+  window.removeEventListener('click', closeLocaleMenu)
+})
 </script>
 
 <template>
@@ -17,12 +45,29 @@ defineProps<{
     </div>
 
     <header class="header">
-      <div class="header__utility">
-        <button class="header__locale" type="button" aria-label="Language Selector: 中文">
+      <div ref="localeMenuRef" class="header__utility">
+        <button
+          class="header__locale"
+          :class="{ 'header__locale--open': localeMenuOpen }"
+          type="button"
+          aria-label="Language Selector: 中文"
+          :aria-expanded="localeMenuOpen"
+          @click.stop="toggleLocaleMenu"
+        >
           <span class="header__flag">🇨🇳</span>
           <span>中文</span>
           <span class="header__caret"></span>
         </button>
+        <div v-if="localeMenuOpen" class="header__locale-menu">
+          <button class="header__locale-option header__locale-option--selected" type="button">
+            <span class="header__flag">🇨🇳</span>
+            <span>中文</span>
+          </button>
+          <button class="header__locale-option" type="button">
+            <span class="header__flag">🇺🇸</span>
+            <span>English</span>
+          </button>
+        </div>
       </div>
 
       <nav class="header__nav" aria-label="站点导航">
@@ -30,9 +75,17 @@ defineProps<{
           v-for="group in groups"
           :key="group.label"
           class="nav-group"
-          :class="{ 'nav-group--preview-open': previewOpenLabel === group.label }"
+          :class="{ 'nav-group--active': activeGroupLabel === group.label }"
         >
-          <RouterLink class="nav-group__link" :class="{ 'nav-group__link--home': group.label === '首页' }" :to="group.href">
+          <RouterLink
+            class="nav-group__link"
+            :class="{
+              'nav-group__link--home': group.label === '首页' && activeGroupLabel === '首页',
+              'nav-group__link--active-blue': activeGroupLabel === group.label && group.label !== '首页' && group.label !== '开源未来',
+              'nav-group__link--active-gold': activeGroupLabel === group.label && group.label === '开源未来',
+            }"
+            :to="group.href"
+          >
             {{ group.label }}
           </RouterLink>
           <div v-if="group.children?.length" class="nav-group__panel">
@@ -125,6 +178,10 @@ defineProps<{
   font-size: 16px;
 }
 
+.header__locale--open {
+  border-bottom-color: transparent;
+}
+
 .header__flag {
   font-size: 22px;
   line-height: 1;
@@ -139,10 +196,42 @@ defineProps<{
   transform: rotate(45deg) translateY(-2px);
 }
 
+.header__locale--open .header__caret {
+  transform: rotate(-135deg) translateY(-1px);
+}
+
+.header__locale-menu {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 160px;
+  border: 1px solid #b9b9b9;
+  border-top: 0;
+  background: #fff;
+}
+
+.header__locale-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  min-height: 53px;
+  padding: 0 16px;
+  background: #fff;
+  color: #3b3b3b;
+  font-family: var(--font-body);
+  font-size: 16px;
+  text-align: left;
+}
+
+.header__locale-option--selected {
+  display: none;
+}
+
 .header__nav {
   display: flex;
   justify-content: center;
-  gap: 78px;
+  gap: clamp(32px, 4vw, 78px);
   padding-top: 127px;
 }
 
@@ -168,9 +257,17 @@ defineProps<{
   color: rgb(199, 167, 80);
 }
 
+.nav-group__link--active-blue {
+  color: #1d67cd;
+}
+
+.nav-group__link--active-gold {
+  color: rgb(199, 167, 80);
+}
+
 .nav-group__panel {
   position: absolute;
-  left: 0;
+  left: 50%;
   top: 65px;
   display: grid;
   gap: 8px;
@@ -179,19 +276,18 @@ defineProps<{
   background: white;
   opacity: 0;
   pointer-events: none;
-  transform: translateY(0);
+  transform: translateX(-50%);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.03);
 }
 
 .nav-group:hover .nav-group__panel,
-.nav-group:focus-within .nav-group__panel,
-.nav-group--preview-open .nav-group__panel {
+.nav-group:focus-within .nav-group__panel {
   opacity: 1;
   pointer-events: auto;
 }
 
 .nav-group:hover .nav-group__link,
-.nav-group:focus-within .nav-group__link,
-.nav-group--preview-open .nav-group__link {
+.nav-group:focus-within .nav-group__link {
   color: #1d67cd;
 }
 
@@ -224,6 +320,11 @@ defineProps<{
     display: flex;
     justify-content: center;
     margin-bottom: 16px;
+  }
+
+  .header__locale-menu {
+    left: 50%;
+    transform: translateX(-50%);
   }
 
   .header__nav {
