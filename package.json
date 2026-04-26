@@ -13,6 +13,7 @@
     "coverage": "vitest run --coverage",
     "lint": "eslint . --fix",
     "lint:oxlint": "oxlint . --fix -D correctness --ignore-path .gitignore",
+    "mirror:assets": "node scripts/mirror-site-assets.mjs",
     "ts": "vue-tsc --build --force",
     "demo": "cd demo && node demo/index.js"
   },

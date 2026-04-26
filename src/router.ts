@@ -1,5 +1,5 @@
+import ArchivedPage from '@/pages/ArchivedPage.vue'
 import IndexPage from '@/pages/IndexPage.vue'
-import PlaceholderPage from '@/pages/PlaceholderPage.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
@@ -14,7 +14,7 @@ const routes = [
   {
     path: '/unrestrictedbodyminds',
     name: 'unrestrictedbodyminds',
-    component: PlaceholderPage,
+    component: ArchivedPage,
     meta: {
       title: '无限身心',
     },
@@ -22,7 +22,7 @@ const routes = [
   {
     path: '/hiddenfigures',
     name: 'hiddenfigures',
-    component: PlaceholderPage,
+    component: ArchivedPage,
     meta: {
       title: '隐藏人物 I',
     },
@@ -30,7 +30,7 @@ const routes = [
   {
     path: '/hiddenfigures2',
     name: 'hiddenfigures2',
-    component: PlaceholderPage,
+    component: ArchivedPage,
     meta: {
       title: '隐藏人物 II',
     },
@@ -38,7 +38,7 @@ const routes = [
   {
     path: '/openfutures',
     name: 'openfutures',
-    component: PlaceholderPage,
+    component: ArchivedPage,
     meta: {
       title: '开源未来',
     },
@@ -46,7 +46,7 @@ const routes = [
   {
     path: '/teams',
     name: 'teams',
-    component: PlaceholderPage,
+    component: ArchivedPage,
     meta: {
       title: '策展团队',
     },
