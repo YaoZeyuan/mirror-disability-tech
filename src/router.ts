@@ -1,5 +1,6 @@
 import ArchivedPage from '@/pages/ArchivedPage.vue'
 import IndexPage from '@/pages/IndexPage.vue'
+import TeamsPage from '@/pages/TeamsPage.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
@@ -46,7 +47,7 @@ const routes = [
   {
     path: '/teams',
     name: 'teams',
-    component: ArchivedPage,
+    component: TeamsPage,
     meta: {
       title: '策展团队',
     },

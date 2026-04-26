@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { HeroContent } from '@/data/siteContent'
+import { resolveMirroredAsset } from '@/utils/mirrorAsset'
 
 defineProps<{
   content: HeroContent
@@ -9,10 +10,10 @@ defineProps<{
 <template>
   <section class="hero">
     <div class="hero__stage">
-      <img class="hero__left-image" :src="content.leftImage" alt="" aria-hidden="true" />
+      <img class="hero__left-image" :src="resolveMirroredAsset(content.leftImage)" alt="" aria-hidden="true" />
       <div class="hero__clock" aria-hidden="true"></div>
-      <img class="hero__accent" :src="content.centerAccentImage" alt="" aria-hidden="true" />
-      <img class="hero__right-image" :src="content.heroImage" alt="" aria-hidden="true" />
+      <img class="hero__accent" :src="resolveMirroredAsset(content.centerAccentImage)" alt="" aria-hidden="true" />
+      <img class="hero__right-image" :src="resolveMirroredAsset(content.heroImage)" alt="" aria-hidden="true" />
 
       <div class="hero__content">
         <p class="hero__eyebrow">{{ content.eyebrow }}</p>
@@ -21,7 +22,7 @@ defineProps<{
 
       <div class="hero__support">
         <p>{{ content.supportText }}</p>
-        <img :src="content.logoImage" alt="清华大学科学博物馆与麻省理工学院博物馆 logo" />
+        <img :src="resolveMirroredAsset(content.logoImage)" alt="清华大学科学博物馆与麻省理工学院博物馆 logo" />
       </div>
     </div>
   </section>
