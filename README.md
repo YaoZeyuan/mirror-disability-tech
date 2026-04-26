@@ -1,47 +1,10 @@
 # mirror-disability-tech
-尝试复刻https://mioniel.wixsite.com/disability-tech 站点
 
+目前在尝试基于vue3+ts+vite，复刻https://mioniel.wixsite.com/disability-tech 站点
 
+项目看起来基于wix构建。通过F12可以看到通过js-map还原出的源代码，放在了[raw-js-component-file](./demo/raw-js-component-file/)文件夹中，[raw-js-file](./demo/raw-js-file/)内则是原始js文件，可忽略。
 
-# Vite + Vue 3 + Typescript + Tailwind Starter
+但从实际运行逻辑看，html中出现的特征关键字`残障、科技与共建未来`并未出现在源码中，而是通过link加载的网页请求出现。这暗示这个网页暴露出的源代码可能只是普通组件，真正的html和样式通过json配置加载实现。原始html以及其通过link加载的资源都已经放在了[raw-html-file](./demo/raw-html-file/), 分别是disability-tech.html 和其他的json文件
 
-Oopinionated, **fully typed**, and **production-ready** project template for Vite.
+期望通过阅读配置，使用vue还原或者重写出原始html
 
-The goal of this template is to be **practical** and **batteries included** starting point for both quick experiments and projects designed for production quality.
-
-Includes plenty of **examples and documentation** of how to do things but **minimal cruft** to delete to get you going.
-
-Please [check out the homepage](https://vite-ts-tailwind-starter.vercel.app/) for full docs. A [detailed changelog](./CHANGES.md) is available.
-
-## Features
-
-- **Vue 3** with [Pinia](https://pinia.vuejs.org/) store and [vue-router](https://router.vuejs.org/) routing
-- **Automatic imports** via [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import)
-- **Tailwind CSS** with the official `typography` plugin, plus **automatic icons** using [Iconify for Tailwind CSS](https://iconify.design/docs/usage/css/tailwind/tailwind4/)
-- **Comprehensive tooling** configs for TypeScript, Eslint, Oxlint, Prettier, EditorConfig and recommended settings and configs for VSCode
-- **Full testing setup** using Vitest (components) and Playwright (e2e) together with Github Actions for CI/CD including [code coverage reporting](https://github.com/Uninen/vite-ts-tailwind-starter/pull/279#issuecomment-2435516534) in PRs.
-
-### Code Features / Opinions
-
-- Project root aliased as `@` (`import { myUtilsThing } from @/utils/mylib`)
-- Router instance available in the store: `this.router.push('/')`
-- Any of 100000+ [Iconify icons](https://icon-sets.iconify.design/) available as Tailwind classes: `<span class="iconify mdi--home"></span>`
-- Predefined and fully typed global variables:
-  - `VITE_APP_VERSION` is read from `package.json` version at build time and stored to the store as `store.appMeta.version`
-  - `VITE_APP_BUILD_EPOCH` is populated as `new Date().getTime()` at build time and stored to the store as `store.appMeta.buildTime`
-
-### Very Fast (TM) To Reset
-
-1. Delete `src/components/HelloWorld.vue` and `src/components/__tests__/HelloWorld.spec.ts`
-2. Delete the content from `@/pages/IndexPage.vue`
-3. Delete demo styles from `@/assets/base.css`
-4. Profit!11
-
-## Elsewhere
-
-- Follow [@uninen on Twitter](https://twitter.com/uninen) or [unessa.net on Bluesky](https://bsky.app/profile/uninen.net)
-- Read my continuously updating learnings from Vite / Vue / TypeScript and other Web development topics from my [Today I Learned site](https://til.unessa.net/)
-
-## Contributing
-
-Contributions are welcome! Please follow the [code of conduct](./CODE_OF_CONDUCT.md) when interacting with others.

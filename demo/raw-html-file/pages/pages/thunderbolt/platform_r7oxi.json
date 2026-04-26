@@ -1,0 +1,2371 @@
+{
+  "applications": {
+    "675bbcef-18d8-41f5-800e-131ec9e08762": {
+      "wixCode": {
+        "compId": "wixCode",
+        "controllerType": "wixCode",
+        "applicationId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+        "appDefinitionId": "675bbcef-18d8-41f5-800e-131ec9e08762",
+        "externalId": ""
+      }
+    }
+  },
+  "connections": {
+    "wixCode": {
+      "anchor1": [
+        {
+          "compId": "comp-lp9r3ggq",
+          "role": "anchor1"
+        }
+      ],
+      "anchor2": [
+        {
+          "compId": "comp-lp9r432k",
+          "role": "anchor2"
+        }
+      ],
+      "anchor3": [
+        {
+          "compId": "comp-lp9r4oep",
+          "role": "anchor3"
+        }
+      ],
+      "anchor4": [
+        {
+          "compId": "comp-lp9r51vk",
+          "role": "anchor4"
+        }
+      ],
+      "image4": [
+        {
+          "compId": "comp-lo095zld",
+          "role": "image4"
+        }
+      ],
+      "vectorImage49": [
+        {
+          "compId": "comp-lp9yx0l0",
+          "role": "vectorImage49"
+        }
+      ],
+      "image9": [
+        {
+          "compId": "comp-lp9yzp74",
+          "role": "image9"
+        }
+      ],
+      "topHeadingDAC278": [
+        {
+          "compId": "comp-lo095zli",
+          "role": "topHeadingDAC278"
+        }
+      ],
+      "topHeading": [
+        {
+          "compId": "comp-lp9xfj90",
+          "role": "topHeading"
+        }
+      ],
+      "image5": [
+        {
+          "compId": "comp-lo095zlg",
+          "role": "image5"
+        }
+      ],
+      "text183": [
+        {
+          "compId": "comp-lphqwn1q",
+          "role": "text183"
+        }
+      ],
+      "image6": [
+        {
+          "compId": "comp-lo095zll",
+          "role": "image6"
+        }
+      ],
+      "text49": [
+        {
+          "compId": "comp-lo095zmr2",
+          "role": "text49"
+        }
+      ],
+      "line2": [
+        {
+          "compId": "comp-lo095zmo",
+          "role": "line2"
+        }
+      ],
+      "button1": [
+        {
+          "compId": "comp-lozrz4ql",
+          "role": "button1"
+        }
+      ],
+      "text101": [
+        {
+          "compId": "comp-lo095znt2",
+          "role": "text101"
+        }
+      ],
+      "line5": [
+        {
+          "compId": "comp-lo095znr",
+          "role": "line5"
+        }
+      ],
+      "button3": [
+        {
+          "compId": "comp-lozs54yu",
+          "role": "button3"
+        }
+      ],
+      "button2": [
+        {
+          "compId": "comp-lozs53yb",
+          "role": "button2"
+        }
+      ],
+      "text102": [
+        {
+          "compId": "comp-lozsy4w4",
+          "role": "text102"
+        }
+      ],
+      "line6": [
+        {
+          "compId": "comp-lo095zq95",
+          "role": "line6"
+        }
+      ],
+      "button5": [
+        {
+          "compId": "comp-lozsztd1",
+          "role": "button5"
+        }
+      ],
+      "vectorImage14": [
+        {
+          "compId": "comp-lo095zmt3",
+          "role": "vectorImage14"
+        }
+      ],
+      "vectorImage13": [
+        {
+          "compId": "comp-lo095zmv",
+          "role": "vectorImage13"
+        }
+      ],
+      "vectorImage12": [
+        {
+          "compId": "comp-lo095zmw",
+          "role": "vectorImage12"
+        }
+      ],
+      "text48": [
+        {
+          "compId": "comp-lo095zmx2",
+          "role": "text48"
+        }
+      ],
+      "vectorImage11": [
+        {
+          "compId": "comp-lo095zmz3",
+          "role": "vectorImage11"
+        }
+      ],
+      "text47": [
+        {
+          "compId": "comp-lo095zn41",
+          "role": "text47"
+        }
+      ],
+      "vectorImage36": [
+        {
+          "compId": "comp-lo095zot2",
+          "role": "vectorImage36"
+        }
+      ],
+      "vectorImage35": [
+        {
+          "compId": "comp-lo095zou6",
+          "role": "vectorImage35"
+        }
+      ],
+      "vectorImage34": [
+        {
+          "compId": "comp-lo095zov7",
+          "role": "vectorImage34"
+        }
+      ],
+      "text90": [
+        {
+          "compId": "comp-lo095zox1",
+          "role": "text90"
+        }
+      ],
+      "vectorImage33": [
+        {
+          "compId": "comp-lo095zoz1",
+          "role": "vectorImage33"
+        }
+      ],
+      "text89": [
+        {
+          "compId": "comp-lo095zp25",
+          "role": "text89"
+        }
+      ],
+      "vectorImage45": [
+        {
+          "compId": "comp-lo095zpb3",
+          "role": "vectorImage45"
+        }
+      ],
+      "vectorImage44": [
+        {
+          "compId": "comp-lo095zpc7",
+          "role": "vectorImage44"
+        }
+      ],
+      "vectorImage43": [
+        {
+          "compId": "comp-lo095zpe1",
+          "role": "vectorImage43"
+        }
+      ],
+      "text98": [
+        {
+          "compId": "comp-lo095zp81",
+          "role": "text98"
+        }
+      ],
+      "vectorImage48": [
+        {
+          "compId": "comp-lp8a89ru",
+          "role": "vectorImage48"
+        }
+      ],
+      "text182": [
+        {
+          "compId": "comp-lp8a89s3",
+          "role": "text182"
+        }
+      ],
+      "page1": [
+        {
+          "compId": "r7oxi",
+          "role": "page1"
+        }
+      ],
+      "section": [
+        {
+          "compId": "comp-lo095zkj",
+          "role": "section"
+        }
+      ],
+      "topstrip": [
+        {
+          "compId": "comp-lo095zl01",
+          "role": "topstrip"
+        }
+      ],
+      "columnStrip2": [
+        {
+          "compId": "comp-lo095zlq3",
+          "role": "columnStrip2"
+        }
+      ],
+      "columnStrip7": [
+        {
+          "compId": "comp-lo095znm",
+          "role": "columnStrip7"
+        }
+      ],
+      "columnStrip10": [
+        {
+          "compId": "comp-lo095zp42",
+          "role": "columnStrip10"
+        }
+      ],
+      "column1": [
+        {
+          "compId": "comp-lo095zl6",
+          "role": "column1"
+        }
+      ],
+      "column17": [
+        {
+          "compId": "comp-lo095zlt",
+          "role": "column17"
+        }
+      ],
+      "column25": [
+        {
+          "compId": "comp-lo095zno",
+          "role": "column25"
+        }
+      ],
+      "column31": [
+        {
+          "compId": "comp-lo095zp6",
+          "role": "column31"
+        }
+      ],
+      "videoBox1": [
+        {
+          "compId": "comp-lp9zu4ue",
+          "role": "videoBox1"
+        }
+      ],
+      "group11": [
+        {
+          "compId": "comp-lo095zms3",
+          "role": "group11"
+        }
+      ],
+      "group12": [
+        {
+          "compId": "comp-lo095zmy3",
+          "role": "group12"
+        }
+      ],
+      "group13": [
+        {
+          "compId": "comp-lo095zos5",
+          "role": "group13"
+        }
+      ],
+      "group14": [
+        {
+          "compId": "comp-lo095zoy2",
+          "role": "group14"
+        }
+      ],
+      "group19": [
+        {
+          "compId": "comp-lp8al8wv",
+          "role": "group19"
+        }
+      ],
+      "group18": [
+        {
+          "compId": "comp-lp8a89q8",
+          "role": "group18"
+        }
+      ]
+    }
+  },
+  "controllerConfigs": {
+    "675bbcef-18d8-41f5-800e-131ec9e08762": {
+      "wixCode": {}
+    }
+  },
+  "orderedControllers": [],
+  "sdkData": {
+    "comp-lo095zld": {
+      "layoutWidth": 815,
+      "layoutHeight": 795,
+      "paddingBottom": 0
+    },
+    "comp-lp9yx0l0": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<svg data-bbox=\"29.5 29.5 141 141\" viewBox=\"0 0 200 200\" height=\"200\" width=\"200\" xmlns=\"http://www.w3.org/2000/svg\" data-type=\"shape\">\n    <g>\n        <path d=\"M100 170.5c-38.874 0-70.5-31.626-70.5-70.5S61.126 29.5 100 29.5s70.5 31.626 70.5 70.5-31.626 70.5-70.5 70.5zm0-133c-34.463 0-62.5 28.037-62.5 62.5s28.037 62.5 62.5 62.5 62.5-28.037 62.5-62.5-28.037-62.5-62.5-62.5z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 200 200",
+          "bbox": "29.5 29.5 141 141"
+        },
+        "boxBoundaries": {
+          "x": "29.5",
+          "y": "29.5",
+          "width": "141",
+          "height": "141"
+        },
+        "svgId": "11062b_bedbc64b23814bebb13f276af6224afa.svg"
+      },
+      "altText": "",
+      "compId": "comp-lp9yx0l0",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "ldg-220",
+          "autoGenerated": false
+        },
+        "id": "propItem-lp9yx1r91",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 596,
+        "height": 596
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lp9yzp74": {
+      "layoutWidth": 235,
+      "layoutHeight": 236,
+      "paddingBottom": 0
+    },
+    "comp-lo095zli": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lp9xfj90": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lo095zlg": {
+      "layoutWidth": 786,
+      "layoutHeight": 764,
+      "paddingBottom": 0
+    },
+    "comp-lphqwn1q": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lo095zll": {
+      "layoutWidth": 436,
+      "layoutHeight": 65,
+      "paddingBottom": 0
+    },
+    "comp-lo095zmr2": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lozrz4ql": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgba(114, 114, 114, 0)",
+        "borderColor": "rgb(71, 70, 70)",
+        "borderWidth": "4px",
+        "borderRadius": "0px",
+        "color": "rgb(71, 70, 70)"
+      }
+    },
+    "comp-lo095znt2": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lozs54yu": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgba(114, 114, 114, 0)",
+        "borderColor": "rgb(71, 70, 70)",
+        "borderWidth": "4px",
+        "borderRadius": "0px",
+        "color": "rgb(71, 70, 70)"
+      }
+    },
+    "comp-lozs53yb": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgba(114, 114, 114, 0)",
+        "borderColor": "rgb(71, 70, 70)",
+        "borderWidth": "4px",
+        "borderRadius": "0px",
+        "color": "rgb(71, 70, 70)"
+      }
+    },
+    "comp-lozsy4w4": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lozsztd1": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgba(114, 114, 114, 0)",
+        "borderColor": "rgb(71, 70, 70)",
+        "borderWidth": "4px",
+        "borderRadius": "0px",
+        "color": "rgb(71, 70, 70)"
+      }
+    },
+    "comp-lo095zmt3": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zmt3",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3527"
+        },
+        "id": "propItem-lo095zmu1",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zmv": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zmv",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3526"
+        },
+        "id": "propItem-lo095zmv2",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zmw": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zmw",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3525"
+        },
+        "id": "propItem-lo095zmw2",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zmx2": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lo095zmz3": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"20 20 160 160\" viewBox=\"0 0 200 200\" height=\"200\" width=\"200\" xmlns=\"http://www.w3.org/2000/svg\" data-type=\"shape\">\n    <g>\n        <path d=\"M180 20v160H20V20h160z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 200 200",
+          "bbox": "20 20 160 160"
+        },
+        "boxBoundaries": {
+          "x": "20",
+          "y": "20",
+          "width": "160",
+          "height": "160"
+        },
+        "svgId": "909695c1e003409ba70b5561666c7c4d.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zmz3",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3522"
+        },
+        "id": "propItem-lo095zn01",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zn41": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lo095zot2": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zot2",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3508"
+        },
+        "id": "propItem-lo095zou",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zou6": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zou6",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3507"
+        },
+        "id": "propItem-lo095zov1",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zov7": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zov7",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3506"
+        },
+        "id": "propItem-lo095zow1",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zox1": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lo095zoz1": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"20 20 160 160\" viewBox=\"0 0 200 200\" height=\"200\" width=\"200\" xmlns=\"http://www.w3.org/2000/svg\" data-type=\"shape\">\n    <g>\n        <path d=\"M180 20v160H20V20h160z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 200 200",
+          "bbox": "20 20 160 160"
+        },
+        "boxBoundaries": {
+          "x": "20",
+          "y": "20",
+          "width": "160",
+          "height": "160"
+        },
+        "svgId": "909695c1e003409ba70b5561666c7c4d.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zoz1",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3504"
+        },
+        "id": "propItem-lo095zoz3",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zp25": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lo095zpb3": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zpb3",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3492"
+        },
+        "id": "propItem-lo095zpc1",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zpc7": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zpc7",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3491"
+        },
+        "id": "propItem-lo095zpd1",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zpe1": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"2.8 2.8 54.4 54.4\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\">\n    <g>\n        <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 60 60",
+          "bbox": "2.8 2.8 54.4 54.4"
+        },
+        "boxBoundaries": {
+          "x": "2.8",
+          "y": "2.8",
+          "width": "54.4",
+          "height": "54.4"
+        },
+        "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg"
+      },
+      "altText": "",
+      "compId": "comp-lo095zpe1",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "7wj-3490"
+        },
+        "id": "propItem-lo095zpe3",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lo095zp81": {
+      "linkPropsByHref": {
+        "https://twitter.com/elizejackson/status/1110629818234818570": {
+          "href": "https://twitter.com/elizejackson/status/1110629818234818570",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "type": "ExternalLink",
+          "id": "textLink_lp8ahogc"
+        },
+        "https://audio.mcsweeneys.net/transcripts/against_access.html": {
+          "href": "https://audio.mcsweeneys.net/transcripts/against_access.html",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "type": "ExternalLink",
+          "id": "textLink_lp8akklh"
+        }
+      },
+      "shouldAttachSemanticClassNames": true
+    },
+    "comp-lp8a89ru": {
+      "isResponsive": false,
+      "svgId": {
+        "content": "<svg data-bbox=\"20 20 160 160\" viewBox=\"0 0 200 200\" height=\"200\" width=\"200\" xmlns=\"http://www.w3.org/2000/svg\" data-type=\"shape\">\n    <g>\n        <path d=\"M180 20v160H20V20h160z\"/>\n    </g>\n</svg>\n",
+        "info": {
+          "svgType": "shape",
+          "viewBox": "0 0 200 200",
+          "bbox": "20 20 160 160"
+        },
+        "boxBoundaries": {
+          "x": "20",
+          "y": "20",
+          "width": "160",
+          "height": "160"
+        },
+        "svgId": "909695c1e003409ba70b5561666c7c4d.svg"
+      },
+      "altText": "",
+      "compId": "comp-lp8a89ru",
+      "strokeWidth": 0,
+      "properties": {
+        "type": "VectorImageProperties",
+        "metaData": {
+          "schemaVersion": "1.0",
+          "sig": "6ls-1224"
+        },
+        "id": "propItem-lp8a89s0",
+        "displayMode": "stretch",
+        "flip": "none"
+      },
+      "layout": {
+        "width": 34,
+        "height": 34
+      },
+      "shadow": {},
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "overrideColors": {
+        "color1": "#1D67CD"
+      },
+      "mediaSvgUrl": "https://static.wixstatic.com/shapes/"
+    },
+    "comp-lp8a89s3": {
+      "linkPropsByHref": {},
+      "shouldAttachSemanticClassNames": true
+    },
+    "r7oxi": {
+      "currentPageSEODescription": "",
+      "currentPageSEOKeywords": "",
+      "currentUrlPageTitle": "yidesign",
+      "visibleInMenu": true
+    },
+    "comp-lo095zkj": {
+      "initialSdkStyles": {
+        "backgroundColor": "rgb(var(--color_15))"
+      }
+    }
+  },
+  "staticEvents": [],
+  "compIdConnections": {
+    "comp-lp9r3ggq": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9r432k": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9r4oep": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9r51vk": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "anchor4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zld": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image4",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9yx0l0": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage49",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9yzp74": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image9",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zli": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "topHeadingDAC278",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9xfj90": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "topHeading",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zlg": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lphqwn1q": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text183",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zll": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "image6",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmr2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text49",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmo": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "line2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lozrz4ql": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "button1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095znt2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text101",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095znr": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "line5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lozs54yu": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "button3",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lozs53yb": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "button2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lozsy4w4": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text102",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zq95": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "line6",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lozsztd1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "button5",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmt3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage14",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmv": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage13",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmw": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage12",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmx2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text48",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmz3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage11",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zn41": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text47",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zot2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage36",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zou6": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage35",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zov7": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage34",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zox1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text90",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zoz1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage33",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zp25": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text89",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zpb3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage45",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zpc7": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage44",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zpe1": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage43",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zp81": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text98",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp8a89ru": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "vectorImage48",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp8a89s3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "text182",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "r7oxi": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "page1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zkj": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "section",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zl01": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "topstrip",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zlq3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip2",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095znm": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip7",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zp42": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "columnStrip10",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zl6": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zlt": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column17",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zno": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column25",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zp6": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "column31",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp9zu4ue": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "videoBox1",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zms3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "group11",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zmy3": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "group12",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zos5": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "group13",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lo095zoy2": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "group14",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp8al8wv": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "group19",
+        "controllerCompId": "wixCode"
+      }
+    },
+    "comp-lp8a89q8": {
+      "wixCode": {
+        "type": "WixCodeConnectionItem",
+        "role": "group18",
+        "controllerCompId": "wixCode"
+      }
+    }
+  },
+  "containersChildrenIds": {
+    "r7oxi": ["comp-lo095zkj"],
+    "comp-lo095zkj": [
+      "comp-lo095zl01",
+      "comp-lo095zlq3",
+      "comp-lp9r3ggq",
+      "comp-lo095znm",
+      "comp-lp9r432k",
+      "comp-lp9r4oep",
+      "comp-lo095zp42",
+      "comp-lp9r51vk"
+    ],
+    "comp-lo095zl01": ["comp-lo095zl6"],
+    "comp-lo095zlq3": ["comp-lo095zlt"],
+    "comp-lo095znm": ["comp-lo095zno"],
+    "comp-lo095zp42": ["comp-lo095zp6"],
+    "comp-lo095zl6": [
+      "comp-lo095zld",
+      "comp-lp9yx0l0",
+      "comp-lp9zu4ue",
+      "comp-lp9yzp74",
+      "comp-lo095zli",
+      "comp-lp9xfj90",
+      "comp-lo095zlg",
+      "comp-lphqwn1q",
+      "comp-lo095zll"
+    ],
+    "comp-lo095zlt": ["comp-lo095zmr2", "comp-lo095zmo", "comp-lo095zms3", "comp-lo095zmy3", "comp-lozrz4ql"],
+    "comp-lo095zno": [
+      "comp-lo095znt2",
+      "comp-lo095znr",
+      "comp-lo095zos5",
+      "comp-lo095zoy2",
+      "comp-lozs54yu",
+      "comp-lozs53yb"
+    ],
+    "comp-lo095zp6": ["comp-lozsy4w4", "comp-lo095zq95", "comp-lp8al8wv", "comp-lp8a89q8", "comp-lozsztd1"],
+    "comp-lp9zu4ue": ["comp-lp9zu50j", "comp-lp9zu50l"],
+    "comp-lo095zms3": ["comp-lo095zmt3", "comp-lo095zmv", "comp-lo095zmw", "comp-lo095zmx2"],
+    "comp-lo095zmy3": ["comp-lo095zmz3", "comp-lo095zn41"],
+    "comp-lo095zos5": ["comp-lo095zot2", "comp-lo095zou6", "comp-lo095zov7", "comp-lo095zox1"],
+    "comp-lo095zoy2": ["comp-lo095zoz1", "comp-lo095zp25"],
+    "comp-lp8al8wv": ["comp-lo095zpb3", "comp-lo095zpc7", "comp-lo095zpe1", "comp-lo095zp81"],
+    "comp-lp8a89q8": ["comp-lp8a89ru", "comp-lp8a89s3"]
+  },
+  "onLoadProperties": {},
+  "compIdToRepeaterId": {},
+  "sosp": {
+    "pagesToShowSosp": {},
+    "controllersInSosp": {}
+  },
+  "ghosts": {
+    "structure": {},
+    "props": {},
+    "parentComponentsUpdates": {}
+  },
+  "hasTPAComponentOnPage": false,
+  "hasBlocksWidgetOnPage": false,
+  "allControllersOnPageAreGhosts": false,
+  "responsiveCompsInClassic": {},
+  "slots": {},
+  "applicationsPublicData": {
+    "140603ad-af8d-84a5-2c80-a0f60cb47351": {
+      "APP": {}
+    }
+  },
+  "isBuilderDocument": false
+}

@@ -1,0 +1,3802 @@
+{
+  "stateRefs": {
+    "comp-lo095zld": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lp9yx0l0": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lp9yzp74": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zli": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lp9xfj90": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zlg": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lphqwn1q": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zll": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zmr2": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lozrz4ql": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095znt2": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lozs54yu": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lozs53yb": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lozsy4w4": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lozsztd1": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lp9zu50j": {
+      "reducedMotion": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "reducedMotion"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lp9zu50l": {
+      "reducedMotion": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "reducedMotion"]
+      },
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zmt3": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zmv": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zmw": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zmx2": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zmz3": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zn41": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zot2": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zou6": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zov7": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zox1": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zoz1": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zp25": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zpb3": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zpc7": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zpe1": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lo095zp81": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lp8a89ru": {
+      "reportBi": {
+        "$type": "ref",
+        "refPath": ["exports", "businessLogger", "reportBi"]
+      }
+    },
+    "comp-lp8a89s3": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lo095zkj": {
+      "experiments": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "experiments"]
+      }
+    },
+    "comp-lp9zu4ue": {
+      "reducedMotion": {
+        "$type": "ref",
+        "refPath": ["exports", "environment", "reducedMotion"]
+      }
+    }
+  },
+  "structure": {
+    "components": {
+      "comp-lp9r3ggq": {
+        "componentType": "Anchor",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9r432k": {
+        "componentType": "Anchor",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9r4oep": {
+        "componentType": "Anchor",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9r51vk": {
+        "componentType": "Anchor",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zld": {
+        "componentType": "WPhoto",
+        "uiType": "NoSkinPhoto",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9yx0l0": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9yzp74": {
+        "componentType": "WPhoto",
+        "uiType": "NoSkinPhoto",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zli": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9xfj90": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zlg": {
+        "componentType": "WPhoto",
+        "uiType": "NoSkinPhoto",
+        "pageId": "r7oxi"
+      },
+      "comp-lphqwn1q": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zll": {
+        "componentType": "WPhoto",
+        "uiType": "NoSkinPhoto",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmr2": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmo": {
+        "componentType": "FiveGridLine",
+        "uiType": "SolidLine",
+        "pageId": "r7oxi"
+      },
+      "comp-lozrz4ql": {
+        "componentType": "SiteButton",
+        "uiType": "BasicButton",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095znt2": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095znr": {
+        "componentType": "FiveGridLine",
+        "uiType": "SolidLine",
+        "pageId": "r7oxi"
+      },
+      "comp-lozs54yu": {
+        "componentType": "SiteButton",
+        "uiType": "BasicButton",
+        "pageId": "r7oxi"
+      },
+      "comp-lozs53yb": {
+        "componentType": "SiteButton",
+        "uiType": "BasicButton",
+        "pageId": "r7oxi"
+      },
+      "comp-lozsy4w4": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zq95": {
+        "componentType": "FiveGridLine",
+        "uiType": "SolidLine",
+        "pageId": "r7oxi"
+      },
+      "comp-lozsztd1": {
+        "componentType": "SiteButton",
+        "uiType": "BasicButton",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9zu50j": {
+        "componentType": "MediaOverlayControls",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9zu50l": {
+        "componentType": "MediaControls",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmt3": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmv": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmw": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmx2": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmz3": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zn41": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zot2": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zou6": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zov7": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zox1": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zoz1": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zp25": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zpb3": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zpc7": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zpe1": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zp81": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "comp-lp8a89ru": {
+        "componentType": "VectorImage",
+        "pageId": "r7oxi"
+      },
+      "comp-lp8a89s3": {
+        "componentType": "WRichText",
+        "pageId": "r7oxi"
+      },
+      "pageBackground_r7oxi": {
+        "componentType": "PageBackground",
+        "pageId": "masterPage"
+      },
+      "VideoBox_dummy_comp-lp9zu4ue": {
+        "componentType": "VideoBox",
+        "pageId": "r7oxi"
+      },
+      "r7oxi": {
+        "components": ["Containerr7oxi"],
+        "componentType": "Page",
+        "uiType": "TransparentPageSkin",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zkj": {
+        "components": [
+          "comp-lo095zl01",
+          "comp-lo095zlq3",
+          "comp-lp9r3ggq",
+          "comp-lo095znm",
+          "comp-lp9r432k",
+          "comp-lp9r4oep",
+          "comp-lo095zp42",
+          "comp-lp9r51vk"
+        ],
+        "componentType": "ClassicSection",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zl01": {
+        "components": ["comp-lo095zl6"],
+        "componentType": "StripColumnsContainer",
+        "uiType": "Default",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zlq3": {
+        "components": ["comp-lo095zlt"],
+        "componentType": "StripColumnsContainer",
+        "uiType": "Default",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095znm": {
+        "components": ["comp-lo095zno"],
+        "componentType": "StripColumnsContainer",
+        "uiType": "Default",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zp42": {
+        "components": ["comp-lo095zp6"],
+        "componentType": "StripColumnsContainer",
+        "uiType": "Default",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zl6": {
+        "components": [
+          "comp-lo095zld",
+          "comp-lp9yx0l0",
+          "comp-lp9zu4ue",
+          "comp-lp9yzp74",
+          "comp-lo095zli",
+          "comp-lp9xfj90",
+          "comp-lo095zlg",
+          "comp-lphqwn1q",
+          "comp-lo095zll"
+        ],
+        "componentType": "Column",
+        "uiType": "DefaultColumn",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zlt": {
+        "components": ["comp-lo095zmr2", "comp-lo095zmo", "comp-lo095zms3", "comp-lo095zmy3", "comp-lozrz4ql"],
+        "componentType": "Column",
+        "uiType": "DefaultColumn",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zno": {
+        "components": [
+          "comp-lo095znt2",
+          "comp-lo095znr",
+          "comp-lo095zos5",
+          "comp-lo095zoy2",
+          "comp-lozs54yu",
+          "comp-lozs53yb"
+        ],
+        "componentType": "Column",
+        "uiType": "DefaultColumn",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zp6": {
+        "components": ["comp-lozsy4w4", "comp-lo095zq95", "comp-lp8al8wv", "comp-lp8a89q8", "comp-lozsztd1"],
+        "componentType": "Column",
+        "uiType": "DefaultColumn",
+        "pageId": "r7oxi"
+      },
+      "comp-lp9zu4ue": {
+        "components": ["comp-lp9zu50j", "comp-lp9zu50l"],
+        "componentType": "MediaPlayer",
+        "uiType": "videoBox",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zms3": {
+        "components": ["comp-lo095zmt3", "comp-lo095zmv", "comp-lo095zmw", "comp-lo095zmx2"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zmy3": {
+        "components": ["comp-lo095zmz3", "comp-lo095zn41"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zos5": {
+        "components": ["comp-lo095zot2", "comp-lo095zou6", "comp-lo095zov7", "comp-lo095zox1"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      },
+      "comp-lo095zoy2": {
+        "components": ["comp-lo095zoz1", "comp-lo095zp25"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      },
+      "comp-lp8al8wv": {
+        "components": ["comp-lo095zpb3", "comp-lo095zpc7", "comp-lo095zpe1", "comp-lo095zp81"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      },
+      "comp-lp8a89q8": {
+        "components": ["comp-lp8a89ru", "comp-lp8a89s3"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      },
+      "Containerr7oxi": {
+        "components": ["comp-lo095zkj"],
+        "componentType": "Group",
+        "pageId": "r7oxi"
+      }
+    },
+    "features": [
+      "accessibilityBrowserZoom",
+      "animationsWixCodeSdk",
+      "animations",
+      "authenticationWixCodeSdk",
+      "captcha",
+      "clickHandlerRegistrar",
+      "components",
+      "consentPolicy",
+      "domSelectors",
+      "environmentService",
+      "fedopsWixCodeSdk",
+      "imagePlaceholder",
+      "imageZoom",
+      "landingPage",
+      "locationWixCodeSdk",
+      "motion",
+      "mpaNavigation",
+      "navigationManager",
+      "navigation",
+      "onloadCompsBehaviors",
+      "ooiTpaSharedConfig",
+      "pageAnchors",
+      "pageTransitions",
+      "platformPubsub",
+      "protectedPages",
+      "renderer",
+      "reporter",
+      "scrollRestoration",
+      "scrollToAnchor",
+      "seoWixCodeSdk",
+      "seo",
+      "siteMembersWixCodeSdk",
+      "siteMembers",
+      "siteWixCodeSdk",
+      "ssrCache",
+      "svgLoader",
+      "tpaCommons",
+      "triggersAndReactions",
+      "windowScroll",
+      "windowWixCodeSdk",
+      "wixEmbedsApi",
+      "platform"
+    ],
+    "siteFeaturesConfigs": null
+  },
+  "props": {
+    "render": {
+      "compProps": {
+        "comp-lp9r3ggq": {
+          "type": "Anchor",
+          "id": "dataItem-lp9r3gho",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "sig": "f6d-72"
+          },
+          "name": "无限身心",
+          "compId": "comp-lp9r3ggq",
+          "urlFragment": ""
+        },
+        "comp-lp9r432k": {
+          "type": "Anchor",
+          "id": "dataItem-lp9r4349",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "sig": "f6d-73"
+          },
+          "name": "隐藏人物1",
+          "compId": "comp-lp9r432k",
+          "urlFragment": "1"
+        },
+        "comp-lp9r4oep": {
+          "type": "Anchor",
+          "id": "dataItem-lp9r4og4",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "sig": "f6d-74"
+          },
+          "name": "隐藏人物2",
+          "compId": "comp-lp9r4oep",
+          "urlFragment": "2"
+        },
+        "comp-lp9r51vk": {
+          "type": "Anchor",
+          "id": "dataItem-lp9r51wn",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "sig": "f6d-75"
+          },
+          "name": "开源未来",
+          "compId": "comp-lp9r51vk",
+          "urlFragment": ""
+        },
+        "comp-lo095zld": {
+          "uri": "ad9044_789cc1259c904d3bbb337e43aad60ae2~mv2.png",
+          "alt": "主视觉-05.png",
+          "width": 1976,
+          "height": 1927,
+          "name": "主视觉-05.png",
+          "containerId": "comp-lo095zld",
+          "hasBgScrollEffect": "",
+          "bgEffectName": "",
+          "displayMode": "fill",
+          "link": {},
+          "hasAnimation": false,
+          "encoding": "AVIF",
+          "responsiveImageProps": {
+            "fallbackSrc": "https://static.wixstatic.com/media/ad9044_789cc1259c904d3bbb337e43aad60ae2~mv2.png/v1/fill/w_815,h_795,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-05.png",
+            "srcset": "https://static.wixstatic.com/media/ad9044_789cc1259c904d3bbb337e43aad60ae2~mv2.png/v1/fill/w_815,h_795,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-05.png 1x, https://static.wixstatic.com/media/ad9044_789cc1259c904d3bbb337e43aad60ae2~mv2.png/v1/fill/w_1630,h_1590,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-05.png 2x",
+            "css": {
+              "container": {
+                "position": "relative"
+              },
+              "img": {
+                "width": 815,
+                "height": 795,
+                "objectFit": "cover"
+              }
+            }
+          },
+          "containerWidth": 815,
+          "containerHeight": 795,
+          "isInFirstFold": true,
+          "crop": null,
+          "onClickBehavior": "goToLink",
+          "fullNameCompType": "wysiwyg.viewer.components.WPhoto",
+          "language": "zh",
+          "compId": "comp-lo095zld",
+          "mainPageId": "r7oxi",
+          "trackClicksAnalytics": false,
+          "title": "1-05.png",
+          "popupA11yExperimentEnabled": false,
+          "translations": {
+            "expandAriaLabel": "展開圖片",
+            "zoomInButtonAriaLabel": "Zoom in"
+          },
+          "zoomedImageResponsiveOverride": {},
+          "allowFullGIFTransformation": false
+        },
+        "comp-lp9yx0l0": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lp9yx0l0",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lp9yzp74": {
+          "uri": "ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png",
+          "width": 1936,
+          "height": 1946,
+          "containerId": "comp-lp9yzp74",
+          "hasBgScrollEffect": "",
+          "bgEffectName": "",
+          "displayMode": "fill",
+          "filterEffectSvgString": "<filter id=\"faded-<%= compId %>\" color-interpolation-filters=\"sRGB\" >\n    <feComponentTransfer result=\"srcRGB\"/>\n    <feColorMatrix type=\"saturate\" values=\"0.2\" />\n<feComponentTransfer><feFuncR type=\"linear\" slope=\"0.85\" intercept=\"0.08\"/>\n<feFuncG type=\"linear\" slope=\"0.85\" intercept=\"0.08\"/>\n<feFuncB type=\"linear\" slope=\"0.85\" intercept=\"0.08\"/></feComponentTransfer>\n<feComponentTransfer ><feFuncR type=\"linear\" slope=\"0.9\" /><feFuncG type=\"linear\" slope=\"0.9\" /><feFuncB type=\"linear\" slope=\"0.9\" /></feComponentTransfer>\n<feColorMatrix type=\"matrix\" values=\"0.13725490196078427 0 0 0 0.8627450980392157 0.1333333333333333 0 0 0 0.8666666666666667 0.13725490196078427 0 0 0 0.8627450980392157 0 0 0 1 0\"/>\n    <feComponentTransfer/>\n</filter>",
+          "link": {},
+          "hasAnimation": false,
+          "encoding": "AVIF",
+          "responsiveImageProps": {
+            "fallbackSrc": "https://static.wixstatic.com/media/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png/v1/fill/w_235,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png",
+            "srcset": "https://static.wixstatic.com/media/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png/v1/fill/w_235,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png 1x, https://static.wixstatic.com/media/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png/v1/fill/w_470,h_472,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ad9044_5ebb93865bc84167bcca88418eb2c66e~mv2.png 2x",
+            "css": {
+              "container": {
+                "position": "relative"
+              },
+              "img": {
+                "width": 235,
+                "height": 236,
+                "objectFit": "cover"
+              }
+            }
+          },
+          "containerWidth": 235,
+          "containerHeight": 236,
+          "isInFirstFold": true,
+          "filterEffectSvgUrl": "url(#faded-<%= compId %>)",
+          "crop": null,
+          "onClickBehavior": "goToLink",
+          "fullNameCompType": "wysiwyg.viewer.components.WPhoto",
+          "language": "zh",
+          "compId": "comp-lp9yzp74",
+          "mainPageId": "r7oxi",
+          "trackClicksAnalytics": false,
+          "title": "elements-04.png",
+          "popupA11yExperimentEnabled": false,
+          "translations": {
+            "expandAriaLabel": "展開圖片",
+            "zoomInButtonAriaLabel": "Zoom in"
+          },
+          "zoomedImageResponsiveOverride": {},
+          "allowFullGIFTransformation": false
+        },
+        "comp-lo095zli": {
+          "html": "<h2 class=\"font_2 wixui-rich-text__text\" style=\"font-size:50px; line-height:1.2em;\"><span style=\"font-size:50px;\" class=\"wixui-rich-text__text\"><span style=\"font-weight:normal;\" class=\"wixui-rich-text__text\"><span style=\"letter-spacing:0.1em;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif;\" class=\"wixui-rich-text__text\">多元宇宙:</span></span></span></span></span></h2>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lp9xfj90": {
+          "html": "<h1 class=\"font_2 wixui-rich-text__text\" style=\"font-size:70px; line-height:1.2em;\"><span style=\"letter-spacing:0.1em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:70px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif;\" class=\"wixui-rich-text__text\"><span style=\"font-weight:bold;\" class=\"wixui-rich-text__text\">残障、科技</span>与<span style=\"font-weight:bold;\" class=\"wixui-rich-text__text\">共建未来</span></span></span></span></span></h1>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zlg": {
+          "uri": "ad9044_4f43bc78251c4bc4a914458d1b9ad320~mv2.png",
+          "alt": "主视觉-06.png",
+          "width": 2080,
+          "height": 2022,
+          "name": "主视觉-06.png",
+          "containerId": "comp-lo095zlg",
+          "hasBgScrollEffect": "",
+          "bgEffectName": "",
+          "displayMode": "fill",
+          "link": {},
+          "hasAnimation": false,
+          "encoding": "AVIF",
+          "responsiveImageProps": {
+            "fallbackSrc": "https://static.wixstatic.com/media/ad9044_4f43bc78251c4bc4a914458d1b9ad320~mv2.png/v1/fill/w_786,h_764,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-06.png",
+            "srcset": "https://static.wixstatic.com/media/ad9044_4f43bc78251c4bc4a914458d1b9ad320~mv2.png/v1/fill/w_786,h_764,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-06.png 1x, https://static.wixstatic.com/media/ad9044_4f43bc78251c4bc4a914458d1b9ad320~mv2.png/v1/fill/w_1572,h_1528,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-06.png 2x",
+            "css": {
+              "container": {
+                "position": "relative"
+              },
+              "img": {
+                "width": 786,
+                "height": 764,
+                "objectFit": "cover"
+              }
+            }
+          },
+          "containerWidth": 786,
+          "containerHeight": 764,
+          "isInFirstFold": true,
+          "crop": null,
+          "onClickBehavior": "goToLink",
+          "fullNameCompType": "wysiwyg.viewer.components.WPhoto",
+          "language": "zh",
+          "compId": "comp-lo095zlg",
+          "mainPageId": "r7oxi",
+          "trackClicksAnalytics": false,
+          "title": "1-06.png",
+          "popupA11yExperimentEnabled": false,
+          "translations": {
+            "expandAriaLabel": "展開圖片",
+            "zoomInButtonAriaLabel": "Zoom in"
+          },
+          "zoomedImageResponsiveOverride": {},
+          "allowFullGIFTransformation": false
+        },
+        "comp-lphqwn1q": {
+          "html": "<p class=\"font_7 wixui-rich-text__text\" style=\"font-size:16px; text-align:center;\"><span style=\"font-size:16px;\" class=\"wixui-rich-text__text\">with the support of</span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zll": {
+          "uri": "ad9044_f7c619d9e96242efb67f96f77ae0b231~mv2.png",
+          "alt": "清华大学科学博物馆与麻省理工学院博物馆logo",
+          "width": 1428,
+          "height": 213,
+          "name": "主视觉-09.png",
+          "containerId": "comp-lo095zll",
+          "hasBgScrollEffect": "",
+          "bgEffectName": "",
+          "displayMode": "fill",
+          "link": {},
+          "hasAnimation": false,
+          "encoding": "AVIF",
+          "responsiveImageProps": {
+            "fallbackSrc": "https://static.wixstatic.com/media/ad9044_f7c619d9e96242efb67f96f77ae0b231~mv2.png/v1/fill/w_436,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-09.png",
+            "srcset": "https://static.wixstatic.com/media/ad9044_f7c619d9e96242efb67f96f77ae0b231~mv2.png/v1/fill/w_436,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-09.png 1x, https://static.wixstatic.com/media/ad9044_f7c619d9e96242efb67f96f77ae0b231~mv2.png/v1/fill/w_872,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%BB%E8%A7%86%E8%A7%89-09.png 2x",
+            "css": {
+              "container": {
+                "position": "relative"
+              },
+              "img": {
+                "width": 436,
+                "height": 65,
+                "objectFit": "cover"
+              }
+            }
+          },
+          "containerWidth": 436,
+          "containerHeight": 65,
+          "isInFirstFold": true,
+          "crop": null,
+          "onClickBehavior": "goToLink",
+          "fullNameCompType": "wysiwyg.viewer.components.WPhoto",
+          "language": "zh",
+          "compId": "comp-lo095zll",
+          "mainPageId": "r7oxi",
+          "trackClicksAnalytics": false,
+          "popupA11yExperimentEnabled": false,
+          "translations": {
+            "expandAriaLabel": "展開圖片",
+            "zoomInButtonAriaLabel": "Zoom in"
+          },
+          "zoomedImageResponsiveOverride": {},
+          "allowFullGIFTransformation": false
+        },
+        "comp-lo095zmr2": {
+          "html": "<h2 class=\"font_2 wixui-rich-text__text\" style=\"font-size:90px; line-height:1.2em;\"><span style=\"color:#1D67CD;\" class=\"wixui-rich-text__text\"><span style=\"font-size:90px;\" class=\"wixui-rich-text__text\"><span style=\"letter-spacing:0.35em;\" class=\"wixui-rich-text__text\"><span style=\"font-weight:bold;\" class=\"wixui-rich-text__text\"><span style=\"font-family:futura-lt-w01-book,futura-lt-w05-book,sans-serif;\" class=\"wixui-rich-text__text\">无限身心</span></span></span></span></span></h2>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zmo": {},
+        "comp-lozrz4ql": {
+          "label": "点击进入“无限身心”",
+          "skin": "BasicButton",
+          "link": {
+            "href": "https://mioniel.wixsite.com/disability-tech/unrestrictedbodyminds",
+            "target": "_self",
+            "type": "PageLink",
+            "id": "dataItem-lozs4zfv"
+          },
+          "hasPlatformClickHandler": false,
+          "classNames": {
+            "desktop": "desktop"
+          },
+          "a11y": {},
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.SiteButton",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lozrz4ql",
+          "trackClicksAnalytics": false
+        },
+        "comp-lo095znt2": {
+          "html": "<h2 class=\"font_2 wixui-rich-text__text\" style=\"font-size:90px;\"><span style=\"letter-spacing:0.35em;\" class=\"wixui-rich-text__text\"><span style=\"color:#1D67CD;\" class=\"wixui-rich-text__text\"><span style=\"font-size:90px;\" class=\"wixui-rich-text__text\">隐藏人物</span></span></span></h2>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095znr": {},
+        "comp-lozs54yu": {
+          "label": "点击进入“隐藏人物Ⅰ”",
+          "skin": "BasicButton",
+          "link": {
+            "href": "https://mioniel.wixsite.com/disability-tech/hiddenfigures",
+            "target": "_self",
+            "type": "PageLink",
+            "id": "dataItem-lozt044n"
+          },
+          "hasPlatformClickHandler": false,
+          "classNames": {
+            "desktop": "desktop"
+          },
+          "a11y": {},
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.SiteButton",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lozs54yu",
+          "trackClicksAnalytics": false
+        },
+        "comp-lozs53yb": {
+          "label": "点击进入“隐藏人物Ⅱ”",
+          "skin": "BasicButton",
+          "link": {
+            "href": "https://mioniel.wixsite.com/disability-tech/hiddenfigures2",
+            "target": "_self",
+            "type": "PageLink",
+            "id": "dataItem-lozt08nf"
+          },
+          "hasPlatformClickHandler": false,
+          "classNames": {
+            "desktop": "desktop"
+          },
+          "a11y": {},
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.SiteButton",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lozs53yb",
+          "trackClicksAnalytics": false
+        },
+        "comp-lozsy4w4": {
+          "html": "<h2 class=\"font_2 wixui-rich-text__text\" style=\"font-size:90px; line-height:1.2em;\"><span style=\"color:#1D67CD;\" class=\"wixui-rich-text__text\"><span style=\"font-size:90px;\" class=\"wixui-rich-text__text\"><span style=\"letter-spacing:0.35em;\" class=\"wixui-rich-text__text\"><span style=\"font-weight:bold;\" class=\"wixui-rich-text__text\"><span style=\"font-family:futura-lt-w01-book,futura-lt-w05-book,sans-serif;\" class=\"wixui-rich-text__text\">开源未来</span></span></span></span></span></h2>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zq95": {},
+        "comp-lozsztd1": {
+          "label": "点击进入“开源未来”",
+          "skin": "BasicButton",
+          "link": {
+            "href": "https://mioniel.wixsite.com/disability-tech/openfutures",
+            "target": "_self",
+            "type": "PageLink",
+            "id": "dataItem-lozt0w3i"
+          },
+          "hasPlatformClickHandler": false,
+          "classNames": {
+            "desktop": "desktop"
+          },
+          "a11y": {},
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.SiteButton",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lozsztd1",
+          "trackClicksAnalytics": false
+        },
+        "comp-lp9zu50j": {
+          "vectorImageProps": {
+            "svgContent": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<svg preserveAspectRatio=\"xMidYMid meet\" data-bbox=\"10 10 62 62\" viewBox=\"0 0 82 82\" height=\"82\" width=\"82\" xmlns=\"http://www.w3.org/2000/svg\" data-type=\"color\" role=presentation aria-hidden=true aria-label=\"\"><defs><style>#<%= compId %> svg [data-color=\"1\"] {fill: #000000;}</style></defs>\n    <g>\n        <path d=\"M41 10c-17.121 0-31 13.879-31 31 0 17.121 13.879 31 31 31 17.121 0 31-13.879 31-31 0-17.121-13.879-31-31-31zm2.008 35.268l-7.531 4.268V32.465l7.531 4.268L50.539 41l-7.531 4.268z\" fill=\"#2B328C\" data-color=\"1\"/>\n    </g>\n</svg>\n",
+            "shouldScaleStroke": false,
+            "withShadow": false
+          },
+          "shouldRender": false
+        },
+        "comp-lp9zu50l": {
+          "audioOnIcon": {
+            "svgContent": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<svg preserveAspectRatio=\"xMidYMid meet\" data-bbox=\"7 5.999 16 18.001\" data-type=\"shape\" xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\" viewBox=\"0 0 30 30\" role=presentation aria-hidden=true aria-label=\"\">\n    <g>\n        <defs>\n            <filter id=\"4e358e3c-c4cc-411c-8da6-747bbbb99bfa\" height=\"200%\" width=\"200%\" y=\"-50%\" x=\"-50%\">\n                <feOffset result=\"out-offset\" in=\"SourceAlpha\"/>\n                <feGaussianBlur result=\"out-blur\" in=\"out-offset\" stdDeviation=\"2\"/>\n                <feColorMatrix result=\"out-matrix\" in=\"out-blur\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0\"/>\n                <feMerge>\n                    <feMergeNode in=\"out-matrix\"/>\n                    <feMergeNode in=\"SourceGraphic\"/>\n                </feMerge>\n            </filter>\n        </defs>\n        <path filter=\"url(#4e358e3c-c4cc-411c-8da6-747bbbb99bfa)\" d=\"M23 6.616a.625.625 0 0 0-.727-.609l-10.241 1.54a.62.62 0 0 0-.535.609l-.006 10.016c0 .892-.276 1.319-1.971 1.319C7.646 19.49 7 20.631 7 21.748 7 22.655 7.507 24 9.516 24c2.249 0 3.236-1.44 3.236-2.713l.006-9.719 8.98-1.454v6.87c-.045.763-.401 1.13-1.973 1.13-1.874 0-2.52 1.141-2.52 2.258 0 .907.507 2.252 2.516 2.252 2.249 0 3.236-1.44 3.236-2.713L23 6.616z\"/>\n    </g>\n</svg>\n",
+            "shouldScaleStroke": false,
+            "withShadow": false
+          },
+          "audioOffIcon": {
+            "svgContent": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<svg preserveAspectRatio=\"xMidYMid meet\" data-bbox=\"5.726 5.999 21.997 18.001\" data-type=\"shape\" xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\" viewBox=\"0 0 30 30\" role=presentation aria-hidden=true aria-label=\"\">\n    <g>\n        <defs>\n            <filter id=\"b0f9f707-af61-4336-bcea-c2fee482e562\" height=\"200%\" width=\"200%\" y=\"-50%\" x=\"-50%\">\n                <feOffset result=\"out-offset\" in=\"SourceAlpha\"/>\n                <feGaussianBlur result=\"out-blur\" in=\"out-offset\" stdDeviation=\"2\"/>\n                <feColorMatrix result=\"out-matrix\" in=\"out-blur\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.40 0\"/>\n                <feMerge>\n                    <feMergeNode in=\"out-matrix\"/>\n                    <feMergeNode in=\"SourceGraphic\"/>\n                </feMerge>\n            </filter>\n        </defs>\n        <path filter=\"url(#b0f9f707-af61-4336-bcea-c2fee482e562)\" d=\"M27.39 17.535a.478.478 0 0 1 .306.615v.001a.51.51 0 0 1-.641.292L6.074 12.471a.478.478 0 0 1-.325-.605.505.505 0 0 1 .661-.302l20.98 5.971zm-6.211.375c1.911-.377 1.812 2.001 1.813 2.001 0 1.273-.986 2.713-3.235 2.713-2.009 0-2.515-1.345-2.515-2.252 0-1.117.646-2.258 2.519-2.258.671-.001 1.095-.141 1.418-.204zm-8.427-1.643v.013h.001l-.005 5.007c0 1.273-.985 2.713-3.233 2.713C7.506 24 7 22.655 7 21.748c0-1.117.646-2.258 2.519-2.258 1.696 0 1.972-.427 1.972-1.319l.001-1.934a.513.513 0 0 1 .512-.477h.23c.285 0 .518.228.518.507zm-.537-4.642a.666.666 0 0 1-.506-.141.61.61 0 0 1-.22-.468l.006-2.86c0-.304.227-.562.535-.609l10.238-1.54a.629.629 0 0 1 .726.609L23 13.591c0 .013-.006.024-.007.036a.49.49 0 0 1-.094.248.516.516 0 0 1-.416.222h-.229a.51.51 0 0 1-.517-.505l-.004-3.479-9.518 1.512z\"/>\n    </g>\n</svg>\n",
+            "shouldScaleStroke": false,
+            "withShadow": false
+          },
+          "audioEnabled": true,
+          "autoplay": true,
+          "translations": {
+            "ariaLabel": "靜音"
+          }
+        },
+        "comp-lo095zmt3": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zmt3",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zmv": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zmv",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zmw": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zmw",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zmx2": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; &ldquo;既然一切有用的技术都是辅助性的，很奇怪我们会把有些设备认定为辅助技术而其他技术则不需要描述。&rdquo; </span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">------- Katherine Ott, Curator in the Division of Science and Medicine at the Smithsonian&#39;s National Museum of American History(Ott, Katherine, David Serlin, and Stephen Mihm, eds. Artificial parts, practical lives: modern histories of prosthetics. NYU Press, 2002.)</span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">​</span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 技术能力主义：&ldquo;一边说着要用技术赋能残障者，一边又强化着能力主义的观念，即什么样的身心才是好的以及谁才是有价值的。&rdquo; </span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">------- Ashley Shew, Assistant Professor, Department of Science and Technology in Society (Shew, Ashley. &quot;Ableism, technoableism, and future AI.&quot; IEEE Technology and Society Magazine 39, no. 1 (2020): 40-85.)</span></span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zmz3": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zmz3",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zn41": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\" style=\"text-align:justify; font-size:20px;\">&nbsp; &nbsp; &nbsp; 与残障有关的技术通常被理解为&ldquo;辅助技术&rdquo;。在大部分人的想象中，&ldquo;辅具&rdquo;是医学化的、特殊的、甚至难以启齿的。但辅具也可以是日常的、普适的和愉悦的。在眼花缭乱的技术革新中，我们需要探讨的是，哪些工具真正尊重了人的身心差异，而哪些仍然执着于将残障者扭转为所谓的&ldquo;健全人&rdquo;。在推动科学前沿和满足日常需求之间，我们又在技术中做出了什么样的选择。&ldquo;一切有用的技术都是辅助性的&rdquo;，当技术不再要求人以千篇一律的方式适应工具，而是让工具适应千姿百态的人时，我们才能通往不受限的身心。</p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zot2": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zot2",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zou6": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zou6",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zov7": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zov7",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zox1": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 辅助托词：&ldquo;初期以残障者为应用场景的技术被当做灵感或测试用例，成为主流技术开发的前身。&rdquo; </span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.6em;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">------- Mara Mills, Associate Professor of Media, Culture, and Communication at New York University</span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zoz1": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zoz1",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zp25": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 技术&ldquo;辅助&rdquo;残障者，这是我们熟悉的故事脉络。那么残障者是否也&ldquo;辅助&rdquo;了技术呢？科技史上，以残障为灵感或隐喻的科学技术屡见不鲜。残障者时而扮演着新技术乐此不疲的应用场景，时而是催生新理论的科研沃土。如今，越来越多的残障者不再是抽象的比喻，而是作为具体的个人专家参与到技术生产之中。他们以各自的方式，在细微之处改变着技术的可能性。任何技术的开发都不是一个人能完成的，它们背后有着众多隐藏人物。</span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lo095zpb3": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zpb3",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zpc7": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zpc7",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zpe1": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lo095zpe1",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lo095zp81": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 残障插件：&ldquo;一个出发点很好且设计精美的解决方案，但解决的是我们根本没觉得有的问题&rdquo;<span style=\"color:#000000;\" class=\"wixui-rich-text__text\">-------</span></span></span>Liz Jackson, founder of The Disabled List (@elizejackson: <span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://twitter.com/elizejackson/status/1110629818234818570\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">https://twitter.com/elizejackson/status/1110629818234818570</a></span>)</p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span class=\"wixGuard wixui-rich-text__text\">​</span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 没有我们的参与，不要做（与我们有关的）决定。</span></span><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">-------</span></span></span><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">国际残障运动</span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; &ldquo;瘸子科技&rdquo;：批判、改造和重塑我们的物质和话语世界的实践。残障者是日常生活的专家和设计师。但我们也利用技术推动变革，拒绝仅仅沦为被治疗、修复和消除的对象。<span style=\"color:#000000;\" class=\"wixui-rich-text__text\">-------</span>Aimi Hamraie, Kelly Fritsch: Crip Technoscience Manifesto (Hamraie, Aimi, and Kelly Fritsch. &quot;Crip technoscience manifesto.&quot; Catalyst: Feminism, Theory, Technoscience 5, no. 1 (2019): 1-33.)</span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 拒绝无障碍：&ldquo;我最常被听人和明眼人问到的问题就是&lsquo;怎么让我的网站、展览、电影、演出、演唱会或者别的东西对你无障碍？&rsquo;[&hellip;] 为什么一切都是与他们有关？为什么是他们来决定融合或者不融合我们？为什么从来不是关于我们，以及我们来决定要不要融合他们？[&hellip;] 正如聋盲人建筑师Robert Sirvage所言，我们的出发点不是&lsquo;如何把这事无障碍化&rsquo;而是&lsquo;什么东西感觉更美&rsquo;？&rdquo;<span style=\"color:#000000;\" class=\"wixui-rich-text__text\">-------John Lee Clark, DeafBlind activist (Against Access：<span style=\"text-decoration:underline;\" class=\"wixui-rich-text__text\"><a href=\"https://audio.mcsweeneys.net/transcripts/against_access.html\" target=\"_blank\" rel=\"noreferrer noopener\" class=\"wixui-rich-text__text\">https://audio.mcsweeneys.net/transcripts/against_access.html</a></span>)</span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></span></span></span></p>\n\n<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\"><span style=\"color:#000000;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 残障社群、残障空间和残障意识的表达，是人机交互实践走向更公平、更正义和更人性化的关键而持续的过程。&mdash; Rua M. Williams, et al. 残障人机交互研究者<br class=\"wixui-rich-text__text\">\nWilliams, Rua M., Kathryn Ringland, Amelia Gibson, Mahender Mandala, Arne Maibaum, and Tiago Guerreiro. &quot;Articulations toward a crip HCI.&quot; Interactions 28, no. 3 (2021): 28-37.</span></span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "comp-lp8a89ru": {
+          "withShadow": false,
+          "link": {},
+          "fullNameCompType": "wysiwyg.viewer.components.VectorImage",
+          "language": "zh",
+          "mainPageId": "r7oxi",
+          "compId": "comp-lp8a89ru",
+          "trackClicksAnalytics": false,
+          "experiments": {
+            "specs.thunderbolt.DatePickerPortal": true,
+            "specs.thunderbolt.DisableDocumentScrollWhenLightBoxOpen": true,
+            "specs.thunderbolt.EnableCustomCSSVarsForLoginSocialBar": true,
+            "specs.thunderbolt.FreemiumBannerOdeditor": true,
+            "specs.thunderbolt.LoginBarEnableLoggingInStateInSSR": true,
+            "specs.thunderbolt.TextInputAutoFillFix": true,
+            "specs.thunderbolt.UseLoginSocialBarCustomMenu": true,
+            "specs.thunderbolt.UseNewLoginBarDropdownMenuAlignment": true,
+            "specs.thunderbolt.UseNewLoginSocialBarElementStructure": true,
+            "specs.thunderbolt.UseNewLoginSocialBarMemberInitialsAvatar": true,
+            "specs.thunderbolt.WixFreeSiteBannerDesktop": true,
+            "specs.thunderbolt.WixFreeSiteBannerMobile": true,
+            "specs.thunderbolt.addIdAsClassName": true,
+            "specs.thunderbolt.buttonUdp": true,
+            "specs.thunderbolt.calculateCollapsibleTextLineHeightByFont": true,
+            "specs.thunderbolt.disableBuilderWixComponents": true,
+            "specs.thunderbolt.dom_store": true,
+            "specs.thunderbolt.dontApplyDacOverridesOnBoBApps": true,
+            "specs.thunderbolt.dynamicSlots": true,
+            "specs.thunderbolt.fiveGridLineStudioSkins": true,
+            "specs.thunderbolt.imageEncodingAVIF": true,
+            "specs.thunderbolt.isClassNameToRootEnabled": true,
+            "specs.thunderbolt.motionTimeAnimationsCSS": true,
+            "specs.thunderbolt.overrideFloatInDistance": true,
+            "specs.thunderbolt.shouldUseResponsiveImages": true,
+            "specs.thunderbolt.svgResolver_2": true,
+            "specs.thunderbolt.updateRichTextSemanticClassNamesOnCorvid": true,
+            "specs.thunderbolt.useClassnameInResponsiveAppWidget": true,
+            "specs.thunderbolt.useImageAvifFormatInNativeProGallery": true,
+            "specs.thunderbolt.useResponsiveImgClassicFixed": true,
+            "specs.thunderbolt.useSvgLoaderFeature": true,
+            "specs.thunderbolt.useSvgLoaderFeatureOnBuilderComps": true,
+            "specs.thunderbolt.useWowImageInFastGallery": true
+          },
+          "isClassNameToRootEnabled": true
+        },
+        "comp-lp8a89s3": {
+          "html": "<p class=\"font_8 wixui-rich-text__text\" style=\"font-size:20px; line-height:1.8em; text-align:justify;\"><span style=\"letter-spacing:0.01em;\" class=\"wixui-rich-text__text\"><span style=\"font-size:20px;\" class=\"wixui-rich-text__text\">&nbsp; &nbsp; &nbsp; 残障与科技的关系中似乎充满了矛盾性。以残障为名开发的技术层出不穷，但好用的辅具却遍寻不得；抽象的残障隐喻充当了技术的灵感来源，具体的残障者的专业性却少有认可。未来的我们想要什么样的技术？需要什么样的合作系统来生产这些技术？残障者如何成为技术的主体，而不是客体（或课题）？</span></span></p>",
+          "skin": "WRichTextThemeSkin",
+          "isQaMode": false,
+          "fullNameCompType": "wysiwyg.viewer.components.WRichText"
+        },
+        "pageBackground_r7oxi": {
+          "fillLayers": {
+            "containerId": "pageBackground_r7oxi",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "isMediaPositionOverride": false,
+          "mediaHeightOverrideType": ""
+        },
+        "r7oxi": {
+          "className": "theme-vars"
+        },
+        "comp-lo095zkj": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          },
+          "fillLayers": {
+            "containerId": "comp-lo095zkj",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "a11y": {
+            "tabindex": "-1"
+          },
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "translations": {
+            "playLabel": "播放",
+            "pauseLabel": "暫停"
+          }
+        },
+        "comp-lo095zl01": {
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lo095zl01",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          }
+        },
+        "comp-lo095zlq3": {
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lo095zlq3",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          }
+        },
+        "comp-lo095znm": {
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lo095znm",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          }
+        },
+        "comp-lo095zp42": {
+          "dividers": {
+            "hasTopDivider": false,
+            "hasBottomDivider": false
+          },
+          "fillLayers": {
+            "containerId": "comp-lo095zp42",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          }
+        },
+        "comp-lo095zl6": {
+          "fillLayers": {
+            "containerId": "comp-lo095zl6",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": false,
+            "video": {
+              "isVideoEnabled": true,
+              "preload": "auto",
+              "controls": "none",
+              "loop": true,
+              "muted": true,
+              "posterImageInfo": {
+                "uri": "11062b_7e61ffd6dbb040ee8b0e4dc604e8fd4ef000.jpg",
+                "width": 2560,
+                "height": 1440,
+                "containerId": "comp-lo095zl6",
+                "hasBgScrollEffect": "",
+                "bgEffectName": "",
+                "alignType": "center",
+                "displayMode": "fill",
+                "filterEffectSvgString": "",
+                "link": {},
+                "encoding": "AVIF",
+                "containerWidth": 980,
+                "containerHeight": 933
+              },
+              "videoInfo": {
+                "fittingType": "fill",
+                "alignType": "center",
+                "hasBgScrollEffect": "",
+                "bgEffectName": "",
+                "videoId": "11062b_7e61ffd6dbb040ee8b0e4dc604e8fd4e",
+                "videoWidth": 1920,
+                "videoHeight": 1080,
+                "qualities": [
+                  {
+                    "quality": "480p",
+                    "size": 409920,
+                    "url": "video/11062b_7e61ffd6dbb040ee8b0e4dc604e8fd4e/480p/mp4/file.mp4"
+                  },
+                  {
+                    "quality": "720p",
+                    "size": 921600,
+                    "url": "video/11062b_7e61ffd6dbb040ee8b0e4dc604e8fd4e/720p/mp4/file.mp4"
+                  },
+                  {
+                    "quality": "1080p",
+                    "size": 2073600,
+                    "url": "video/11062b_7e61ffd6dbb040ee8b0e4dc604e8fd4e/1080p/mp4/file.mp4"
+                  }
+                ],
+                "isVideoDataExists": "1",
+                "videoFormat": "mp4",
+                "playbackRate": 1,
+                "autoPlay": true,
+                "containerId": "comp-lo095zl6",
+                "animatePoster": "none"
+              }
+            },
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          },
+          "columnOverrides": {
+            "width": "100%",
+            "contentArea": {
+              "alignment": 0.5,
+              "width": 980
+            }
+          },
+          "translations": {
+            "ariaLabel": "內容在浮動時改變"
+          }
+        },
+        "comp-lo095zlt": {
+          "fillLayers": {
+            "containerId": "comp-lo095zlt",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "meshProps": {
+            "wedges": ["comp-lo095zltinlineContent-wedge-6"],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          },
+          "columnOverrides": {
+            "width": "100%",
+            "contentArea": {
+              "alignment": 0.5,
+              "width": 980
+            }
+          },
+          "translations": {
+            "ariaLabel": "內容在浮動時改變"
+          }
+        },
+        "comp-lo095zno": {
+          "fillLayers": {
+            "containerId": "comp-lo095zno",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          },
+          "columnOverrides": {
+            "width": "100%",
+            "contentArea": {
+              "alignment": 0.5,
+              "width": 980
+            }
+          },
+          "translations": {
+            "ariaLabel": "內容在浮動時改變"
+          }
+        },
+        "comp-lo095zp6": {
+          "fillLayers": {
+            "containerId": "comp-lo095zp6",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": true,
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false
+          },
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          },
+          "columnOverrides": {
+            "width": "100%",
+            "contentArea": {
+              "alignment": 0.5,
+              "width": 980
+            }
+          },
+          "translations": {
+            "ariaLabel": "內容在浮動時改變"
+          }
+        },
+        "comp-lp9zu4ue": {
+          "fillLayers": {
+            "containerId": "comp-lp9zu4ue",
+            "hasBgFullscreenScrollEffect": false,
+            "shouldRenderUnderlay": false,
+            "video": {
+              "isVideoEnabled": true,
+              "preload": "auto",
+              "controls": "none",
+              "loop": true,
+              "muted": true,
+              "posterImageInfo": {
+                "uri": "11062b_b42f6deed88e48509affdc02c3eb5b45f000.png",
+                "width": 1440,
+                "height": 1440,
+                "containerId": "comp-lp9zu4ue",
+                "hasBgScrollEffect": "",
+                "bgEffectName": "",
+                "alignType": "center",
+                "displayMode": "fill",
+                "filterEffectSvgString": "",
+                "link": {},
+                "encoding": "AVIF",
+                "responsiveImageProps": {
+                  "fallbackSrc": "https://static.wixstatic.com/media/11062b_b42f6deed88e48509affdc02c3eb5b45f000.png/v1/fill/w_640,h_640,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_b42f6deed88e48509affdc02c3eb5b45f000.png",
+                  "srcset": "https://static.wixstatic.com/media/11062b_b42f6deed88e48509affdc02c3eb5b45f000.png/v1/fill/w_640,h_640,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_b42f6deed88e48509affdc02c3eb5b45f000.png 1x, https://static.wixstatic.com/media/11062b_b42f6deed88e48509affdc02c3eb5b45f000.png/v1/fill/w_1280,h_1280,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_b42f6deed88e48509affdc02c3eb5b45f000.png 2x",
+                  "css": {
+                    "container": {
+                      "position": "relative"
+                    },
+                    "img": {
+                      "width": 640,
+                      "height": 640,
+                      "objectFit": "cover"
+                    }
+                  }
+                },
+                "containerWidth": 640,
+                "containerHeight": 640
+              },
+              "videoInfo": {
+                "fittingType": "fill",
+                "alignType": "center",
+                "hasBgScrollEffect": "",
+                "bgEffectName": "",
+                "videoId": "11062b_b42f6deed88e48509affdc02c3eb5b45",
+                "videoWidth": 1440,
+                "videoHeight": 1440,
+                "qualities": [
+                  {
+                    "quality": "360p",
+                    "size": 129600,
+                    "url": "video/11062b_b42f6deed88e48509affdc02c3eb5b45/360p/mp4/file.mp4"
+                  },
+                  {
+                    "quality": "480p",
+                    "size": 230400,
+                    "url": "video/11062b_b42f6deed88e48509affdc02c3eb5b45/480p/mp4/file.mp4"
+                  },
+                  {
+                    "quality": "720p",
+                    "size": 518400,
+                    "url": "video/11062b_b42f6deed88e48509affdc02c3eb5b45/720p/mp4/file.mp4"
+                  },
+                  {
+                    "quality": "1080p",
+                    "size": 2073600,
+                    "url": "video/11062b_b42f6deed88e48509affdc02c3eb5b45/1080p/mp4/file.mp4"
+                  }
+                ],
+                "isVideoDataExists": "1",
+                "videoFormat": "mp4",
+                "playbackRate": 1,
+                "autoPlay": true,
+                "containerId": "comp-lp9zu4ue",
+                "animatePoster": "none"
+              }
+            },
+            "shouldPadMedia": false,
+            "hasCanvasAnimation": false,
+            "useWixMediaCanvas": false
+          },
+          "isMobileView": false,
+          "audioEnabled": true,
+          "hasAudio": false,
+          "hasClick": false,
+          "hasRollIn": false,
+          "hasAudioRollIn": false,
+          "canClickPause": false,
+          "canRollPause": false,
+          "muted": true,
+          "autoplay": true,
+          "canReplay": true,
+          "animatePoster": "none",
+          "isTransparent": true,
+          "hasMask": false,
+          "filterEffect": {},
+          "alt": "Clock Dot",
+          "meshProps": {
+            "wedges": ["comp-lp9zu4ueinlineContent-wedge-3"],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          },
+          "translations": {
+            "ariaLabel": "播放影片"
+          }
+        },
+        "comp-lo095zms3": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": ["comp-lo095zmv", "comp-lo095zmw"],
+            "fixedComponents": []
+          }
+        },
+        "comp-lo095zmy3": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          }
+        },
+        "comp-lo095zos5": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": ["comp-lo095zou6", "comp-lo095zov7"],
+            "fixedComponents": []
+          }
+        },
+        "comp-lo095zoy2": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          }
+        },
+        "comp-lp8al8wv": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": ["comp-lo095zpc7", "comp-lo095zpe1"],
+            "fixedComponents": []
+          }
+        },
+        "comp-lp8a89q8": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          }
+        },
+        "Containerr7oxi": {
+          "meshProps": {
+            "wedges": [],
+            "rotatedComponents": [],
+            "fixedComponents": []
+          }
+        }
+      }
+    },
+    "__componentsConfig__": {
+      "tpa": {}
+    },
+    "accessibilityBrowserZoom": {
+      "isBuilder": false,
+      "isStudio": false
+    },
+    "animations": {
+      "repeaterTemplateToParentMap": {},
+      "isPreview": false
+    },
+    "components": {
+      "componentsUnderFoldMap": {
+        "comp-lo095zlq3": {
+          "componentType": "wysiwyg.viewer.components.StripColumnsContainer",
+          "compId": "comp-lo095zlq3"
+        },
+        "comp-lp9r3ggq": {
+          "componentType": "wysiwyg.common.components.anchor.viewer.Anchor",
+          "compId": "comp-lp9r3ggq"
+        },
+        "comp-lo095znm": {
+          "componentType": "wysiwyg.viewer.components.StripColumnsContainer",
+          "compId": "comp-lo095znm"
+        },
+        "comp-lp9r432k": {
+          "componentType": "wysiwyg.common.components.anchor.viewer.Anchor",
+          "compId": "comp-lp9r432k"
+        },
+        "comp-lp9r4oep": {
+          "componentType": "wysiwyg.common.components.anchor.viewer.Anchor",
+          "compId": "comp-lp9r4oep"
+        },
+        "comp-lo095zp42": {
+          "componentType": "wysiwyg.viewer.components.StripColumnsContainer",
+          "compId": "comp-lo095zp42"
+        },
+        "comp-lp9r51vk": {
+          "componentType": "wysiwyg.common.components.anchor.viewer.Anchor",
+          "compId": "comp-lp9r51vk"
+        },
+        "comp-lo095zlt": {
+          "componentType": "wysiwyg.viewer.components.Column",
+          "compId": "comp-lo095zlt"
+        },
+        "comp-lo095zno": {
+          "componentType": "wysiwyg.viewer.components.Column",
+          "compId": "comp-lo095zno"
+        },
+        "comp-lo095zp6": {
+          "componentType": "wysiwyg.viewer.components.Column",
+          "compId": "comp-lo095zp6"
+        },
+        "comp-lo095zmr2": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095zmr2"
+        },
+        "comp-lo095zmo": {
+          "componentType": "wysiwyg.viewer.components.FiveGridLine",
+          "compId": "comp-lo095zmo"
+        },
+        "comp-lo095zms3": {
+          "componentType": "wysiwyg.viewer.components.Group",
+          "compId": "comp-lo095zms3"
+        },
+        "comp-lo095zmy3": {
+          "componentType": "wysiwyg.viewer.components.Group",
+          "compId": "comp-lo095zmy3"
+        },
+        "comp-lozrz4ql": {
+          "componentType": "wysiwyg.viewer.components.SiteButton",
+          "compId": "comp-lozrz4ql"
+        },
+        "comp-lo095znt2": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095znt2"
+        },
+        "comp-lo095znr": {
+          "componentType": "wysiwyg.viewer.components.FiveGridLine",
+          "compId": "comp-lo095znr"
+        },
+        "comp-lo095zos5": {
+          "componentType": "wysiwyg.viewer.components.Group",
+          "compId": "comp-lo095zos5"
+        },
+        "comp-lo095zoy2": {
+          "componentType": "wysiwyg.viewer.components.Group",
+          "compId": "comp-lo095zoy2"
+        },
+        "comp-lozs54yu": {
+          "componentType": "wysiwyg.viewer.components.SiteButton",
+          "compId": "comp-lozs54yu"
+        },
+        "comp-lozs53yb": {
+          "componentType": "wysiwyg.viewer.components.SiteButton",
+          "compId": "comp-lozs53yb"
+        },
+        "comp-lozsy4w4": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lozsy4w4"
+        },
+        "comp-lo095zq95": {
+          "componentType": "wysiwyg.viewer.components.FiveGridLine",
+          "compId": "comp-lo095zq95"
+        },
+        "comp-lp8al8wv": {
+          "componentType": "wysiwyg.viewer.components.Group",
+          "compId": "comp-lp8al8wv"
+        },
+        "comp-lp8a89q8": {
+          "componentType": "wysiwyg.viewer.components.Group",
+          "compId": "comp-lp8a89q8"
+        },
+        "comp-lozsztd1": {
+          "componentType": "wysiwyg.viewer.components.SiteButton",
+          "compId": "comp-lozsztd1"
+        },
+        "comp-lo095zmt3": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zmt3"
+        },
+        "comp-lo095zmv": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zmv"
+        },
+        "comp-lo095zmw": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zmw"
+        },
+        "comp-lo095zmx2": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095zmx2"
+        },
+        "comp-lo095zmz3": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zmz3"
+        },
+        "comp-lo095zn41": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095zn41"
+        },
+        "comp-lo095zot2": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zot2"
+        },
+        "comp-lo095zou6": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zou6"
+        },
+        "comp-lo095zov7": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zov7"
+        },
+        "comp-lo095zox1": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095zox1"
+        },
+        "comp-lo095zoz1": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zoz1"
+        },
+        "comp-lo095zp25": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095zp25"
+        },
+        "comp-lo095zpb3": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zpb3"
+        },
+        "comp-lo095zpc7": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zpc7"
+        },
+        "comp-lo095zpe1": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lo095zpe1"
+        },
+        "comp-lo095zp81": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lo095zp81"
+        },
+        "comp-lp8a89ru": {
+          "componentType": "wysiwyg.viewer.components.VectorImage",
+          "compId": "comp-lp8a89ru"
+        },
+        "comp-lp8a89s3": {
+          "componentType": "wysiwyg.viewer.components.WRichText",
+          "compId": "comp-lp8a89s3"
+        }
+      }
+    },
+    "domSelectors": {
+      "allComponentIds": [
+        "comp-lp9r3ggq",
+        "comp-lp9r432k",
+        "comp-lp9r4oep",
+        "comp-lp9r51vk",
+        "comp-lo095zld",
+        "comp-lp9yx0l0",
+        "comp-lp9yzp74",
+        "comp-lo095zli",
+        "comp-lp9xfj90",
+        "comp-lo095zlg",
+        "comp-lphqwn1q",
+        "comp-lo095zll",
+        "comp-lo095zmr2",
+        "comp-lo095zmo",
+        "comp-lozrz4ql",
+        "comp-lo095znt2",
+        "comp-lo095znr",
+        "comp-lozs54yu",
+        "comp-lozs53yb",
+        "comp-lozsy4w4",
+        "comp-lo095zq95",
+        "comp-lozsztd1",
+        "comp-lp9zu50j",
+        "comp-lp9zu50l",
+        "comp-lo095zmt3",
+        "comp-lo095zmv",
+        "comp-lo095zmw",
+        "comp-lo095zmx2",
+        "comp-lo095zmz3",
+        "comp-lo095zn41",
+        "comp-lo095zot2",
+        "comp-lo095zou6",
+        "comp-lo095zov7",
+        "comp-lo095zox1",
+        "comp-lo095zoz1",
+        "comp-lo095zp25",
+        "comp-lo095zpb3",
+        "comp-lo095zpc7",
+        "comp-lo095zpe1",
+        "comp-lo095zp81",
+        "comp-lp8a89ru",
+        "comp-lp8a89s3",
+        "pageBackground_r7oxi",
+        "VideoBox_dummy_comp-lp9zu4ue",
+        "r7oxi",
+        "comp-lo095zkj",
+        "comp-lo095zl01",
+        "comp-lo095zlq3",
+        "comp-lo095znm",
+        "comp-lo095zp42",
+        "comp-lo095zl6",
+        "comp-lo095zlt",
+        "comp-lo095zno",
+        "comp-lo095zp6",
+        "comp-lp9zu4ue",
+        "comp-lo095zms3",
+        "comp-lo095zmy3",
+        "comp-lo095zos5",
+        "comp-lo095zoy2",
+        "comp-lp8al8wv",
+        "comp-lp8a89q8",
+        "Containerr7oxi"
+      ]
+    },
+    "imagePlaceholder": {
+      "staticMediaUrl": "https://static.wixstatic.com/media",
+      "isSEOBot": false
+    },
+    "imageZoom": {
+      "wPhotoConfig": {
+        "comp-lo095zld": "dataItem-lo095zld1",
+        "comp-lp9yzp74": "dataItem-lp9yzp8v",
+        "comp-lo095zlg": "dataItem-lo095zlh",
+        "comp-lo095zll": "dataItem-lo095zll1"
+      },
+      "imageDataItemIdToCompId": {
+        "dataItem-lo095zld1": "comp-lo095zld",
+        "dataItem-lp9yzp8v": "comp-lp9yzp74",
+        "dataItem-lo095zlh": "comp-lo095zlg",
+        "dataItem-lo095zll1": "comp-lo095zll"
+      },
+      "tpaGalleriesComps": {},
+      "nativeGalleriesComps": {},
+      "shouldChangeUrl": true,
+      "imageZoomCompType": "ImageZoom",
+      "deviceType": "Desktop",
+      "staticMediaUrl": "https://static.wixstatic.com/media",
+      "popupA11yExperimentEnabled": false,
+      "translations": {
+        "closeLabel": "關閉",
+        "nextLabel": "下一步",
+        "previousLabel": "上一個",
+        "expandedLabel": "展開的圖片"
+      }
+    },
+    "landingPage": {
+      "isLandingPage": false
+    },
+    "motion": {
+      "animationDataByCompId": {
+        "comp-lo095zld": {
+          "effects-m2mtt26p63": [
+            {
+              "id": "effects-m2mtt26p61",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 0,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26p60",
+                "distance": {
+                  "value": 150,
+                  "type": "px"
+                },
+                "type": "GlitchIn",
+                "power": "soft",
+                "startFromOffScreen": false,
+                "direction": 270,
+                "metaData": {
+                  "sig": "f6d-132"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-133"
+              },
+              "targetId": "comp-lo095zld",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lp9yzp74": {
+          "effects-m2mtt26p33": [
+            {
+              "id": "effects-m2mtt26p31",
+              "type": "TimeAnimationOptions",
+              "duration": 1950,
+              "delay": 0,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26p30",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-118"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-119"
+              },
+              "targetId": "comp-lp9yzp74",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lo095zlg": {
+          "effects-m2mtt26p48": [
+            {
+              "id": "effects-m2mtt26p46",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 0,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26p45",
+                "distance": {
+                  "value": 150,
+                  "type": "px"
+                },
+                "type": "GlitchIn",
+                "power": "soft",
+                "startFromOffScreen": false,
+                "direction": 31,
+                "metaData": {
+                  "sig": "f6d-125"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-126"
+              },
+              "targetId": "comp-lo095zlg",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lo095zmx2": {
+          "effects-m2mtt26p18": [
+            {
+              "id": "effects-m2mtt26p16",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 0,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26p15",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-111"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-112"
+              },
+              "targetId": "comp-lo095zmx2",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lo095zn41": {
+          "effects-m2mtt26p3": [
+            {
+              "id": "effects-m2mtt26p1",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 200,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26p",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-104"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-105"
+              },
+              "targetId": "comp-lo095zn41",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lo095zox1": {
+          "effects-m2mtt26o48": [
+            {
+              "id": "effects-m2mtt26o46",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 0,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26o45",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-97"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-98"
+              },
+              "targetId": "comp-lo095zox1",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lo095zp25": {
+          "effects-m2mtt26o33": [
+            {
+              "id": "effects-m2mtt26o31",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 200,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26o30",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-90"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-91"
+              },
+              "targetId": "comp-lo095zp25",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lo095zp81": {
+          "effects-m2mtt26o18": [
+            {
+              "id": "effects-m2mtt26o16",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 200,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26o15",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-83"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-84"
+              },
+              "targetId": "comp-lo095zp81",
+              "variants": []
+            }
+          ]
+        },
+        "comp-lp8a89s3": {
+          "effects-m2mtt26o3": [
+            {
+              "id": "effects-m2mtt26o1",
+              "type": "TimeAnimationOptions",
+              "duration": 1200,
+              "delay": 200,
+              "fill": "backwards",
+              "allowReplay": "perPageView",
+              "iterations": 1,
+              "namedEffect": {
+                "id": "effects-m2mtt26o",
+                "type": "FadeIn",
+                "metaData": {
+                  "sig": "f6d-76"
+                }
+              },
+              "metaData": {
+                "sig": "f6d-77"
+              },
+              "targetId": "comp-lp8a89s3",
+              "variants": []
+            }
+          ]
+        }
+      },
+      "scrubAnimationBreakpoints": [],
+      "repeaterTemplateToParentMap": {},
+      "isResponsive": false,
+      "useCSSTimeAnimations": true
+    },
+    "onloadCompsBehaviors": {
+      "compsBehaviors": {
+        "comp-lo095zmx2": {
+          "hiddenOnLoad": false,
+          "collapseOnLoad": false,
+          "isResponsiveComponent": false
+        },
+        "comp-lo095zn41": {
+          "hiddenOnLoad": false,
+          "collapseOnLoad": false,
+          "isResponsiveComponent": false
+        },
+        "comp-lo095zox1": {
+          "hiddenOnLoad": false,
+          "collapseOnLoad": false,
+          "isResponsiveComponent": false
+        },
+        "comp-lo095zp25": {
+          "hiddenOnLoad": false,
+          "collapseOnLoad": false,
+          "isResponsiveComponent": false
+        },
+        "comp-lo095zp81": {
+          "hiddenOnLoad": false,
+          "collapseOnLoad": false,
+          "isResponsiveComponent": false
+        },
+        "comp-lp8a89s3": {
+          "hiddenOnLoad": false,
+          "collapseOnLoad": false,
+          "isResponsiveComponent": false
+        }
+      }
+    },
+    "pageAnchors": {
+      "anchors": [
+        {
+          "compId": "comp-lp9r3ggq",
+          "dataId": "dataItem-lp9r3gho",
+          "name": "无限身心",
+          "top": 1003
+        },
+        {
+          "compId": "comp-lp9r432k",
+          "dataId": "dataItem-lp9r4349",
+          "name": "隐藏人物1",
+          "top": 2271
+        },
+        {
+          "compId": "comp-lp9r4oep",
+          "dataId": "dataItem-lp9r4og4",
+          "name": "隐藏人物2",
+          "top": 2271
+        },
+        {
+          "compId": "comp-lp9r51vk",
+          "dataId": "dataItem-lp9r51wn",
+          "name": "开源未来",
+          "top": 3390
+        },
+        {
+          "dataId": "anchors-lo095zky1",
+          "compId": "comp-lo095zkj",
+          "name": "首页"
+        }
+      ],
+      "pageAnchorsObservers": [],
+      "activeAnchorObservers": [],
+      "headerComponentId": null,
+      "isBuilderComponentModel": false
+    },
+    "pageTransitions": {
+      "useCssFeatureForViewTransitions": false,
+      "transitionName": "OutIn",
+      "pageBackground": {
+        "type": "BackgroundMedia",
+        "id": "r7oxi_desktop_bg",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "2.0",
+          "isHidden": false,
+          "sig": "nrx-861"
+        },
+        "color": "{color_15}",
+        "alignType": "center",
+        "fittingType": "fill",
+        "scrollType": "scroll",
+        "colorOverlay": "",
+        "colorOverlayOpacity": 0
+      },
+      "viewMode": "desktop",
+      "isEditor": false,
+      "isPreview": false
+    },
+    "scrollRestoration": {
+      "shouldRestoreScrollPosition": false
+    },
+    "scrollToAnchor": {
+      "anchorDataIdToCompIdMap": {
+        "dataItem-lp9r3gho": "comp-lp9r3ggq",
+        "dataItem-lp9r4349": "comp-lp9r432k",
+        "dataItem-lp9r4og4": "comp-lp9r4oep",
+        "dataItem-lp9r51wn": "comp-lp9r51vk",
+        "anchors-lo095zky1": "comp-lo095zkj"
+      },
+      "nicknameToCompIdMap": {
+        "anchor1": "comp-lp9r3ggq",
+        "anchor2": "comp-lp9r432k",
+        "anchor3": "comp-lp9r4oep",
+        "anchor4": "comp-lp9r51vk",
+        "image4": "comp-lo095zld",
+        "vectorImage49": "comp-lp9yx0l0",
+        "image9": "comp-lp9yzp74",
+        "topHeadingDAC278": "comp-lo095zli",
+        "topHeading": "comp-lp9xfj90",
+        "image5": "comp-lo095zlg",
+        "text183": "comp-lphqwn1q",
+        "image6": "comp-lo095zll",
+        "text49": "comp-lo095zmr2",
+        "line2": "comp-lo095zmo",
+        "button1": "comp-lozrz4ql",
+        "text101": "comp-lo095znt2",
+        "line5": "comp-lo095znr",
+        "button3": "comp-lozs54yu",
+        "button2": "comp-lozs53yb",
+        "text102": "comp-lozsy4w4",
+        "line6": "comp-lo095zq95",
+        "button5": "comp-lozsztd1",
+        "vectorImage14": "comp-lo095zmt3",
+        "vectorImage13": "comp-lo095zmv",
+        "vectorImage12": "comp-lo095zmw",
+        "text48": "comp-lo095zmx2",
+        "vectorImage11": "comp-lo095zmz3",
+        "text47": "comp-lo095zn41",
+        "vectorImage36": "comp-lo095zot2",
+        "vectorImage35": "comp-lo095zou6",
+        "vectorImage34": "comp-lo095zov7",
+        "text90": "comp-lo095zox1",
+        "vectorImage33": "comp-lo095zoz1",
+        "text89": "comp-lo095zp25",
+        "vectorImage45": "comp-lo095zpb3",
+        "vectorImage44": "comp-lo095zpc7",
+        "vectorImage43": "comp-lo095zpe1",
+        "text98": "comp-lo095zp81",
+        "vectorImage48": "comp-lp8a89ru",
+        "text182": "comp-lp8a89s3",
+        "page1": "r7oxi",
+        "section": "comp-lo095zkj",
+        "topstrip": "comp-lo095zl01",
+        "columnStrip2": "comp-lo095zlq3",
+        "columnStrip7": "comp-lo095znm",
+        "columnStrip10": "comp-lo095zp42",
+        "column1": "comp-lo095zl6",
+        "column17": "comp-lo095zlt",
+        "column25": "comp-lo095zno",
+        "column31": "comp-lo095zp6",
+        "videoBox1": "comp-lp9zu4ue",
+        "group11": "comp-lo095zms3",
+        "group12": "comp-lo095zmy3",
+        "group13": "comp-lo095zos5",
+        "group14": "comp-lo095zoy2",
+        "group19": "comp-lp8al8wv",
+        "group18": "comp-lp8a89q8"
+      },
+      "compsToUpdate": [],
+      "isAnchorsLinksOnPageWithoutTopAndBottom": true,
+      "isBuilderComponentModel": false,
+      "anchorNameToCompIdMap": {
+        "Top%20of%20Page": "SCROLL_TO_TOP",
+        "Bottom%20of%20Page": "SCROLL_TO_BOTTOM"
+      },
+      "isResponsive": false
+    },
+    "seoWixCodeSdk": {
+      "pageId": "r7oxi",
+      "description": "",
+      "indexPage": true,
+      "ogImage": "",
+      "ogImageHeight": "",
+      "ogImageWidth": "",
+      "pageName": "首页",
+      "title": "yidesign",
+      "advancedSeoData": "{\"tags\":[{\"type\":\"title\",\"children\":\"多元宇宙：残障、科技与共建未来\"},{\"type\":\"meta\",\"props\":{\"property\":\"og:title\",\"content\":\"多元宇宙：残障、科技与共建未来\"}}],\"settings\":{\"preventAutoRedirect\":false,\"keywords\":[]}}",
+      "translationsData": {
+        "default": "{\"tags\":[{\"type\":\"title\",\"children\":\"多元宇宙：残障、科技与共建未来\"},{\"type\":\"meta\",\"props\":{\"property\":\"og:title\",\"content\":\"多元宇宙：残障、科技与共建未来\"}}],\"settings\":{\"preventAutoRedirect\":false,\"keywords\":[]}}",
+        "en": "{\"tags\":[{\"type\":\"title\",\"children\":\"多元宇宙：残障、科技与共建未来\"},{\"type\":\"meta\",\"props\":{\"property\":\"og:title\",\"content\":\"多元宇宙：残障、科技与共建未来\"}}],\"settings\":{\"preventAutoRedirect\":false,\"keywords\":[]}}"
+      },
+      "tpaPageId": "",
+      "managingAppDefId": ""
+    },
+    "seo": {
+      "pageId": "r7oxi",
+      "description": "",
+      "indexPage": true,
+      "ogImage": "",
+      "ogImageHeight": "",
+      "ogImageWidth": "",
+      "pageName": "首页",
+      "title": "yidesign",
+      "advancedSeoData": "{\"tags\":[{\"type\":\"title\",\"children\":\"多元宇宙：残障、科技与共建未来\"},{\"type\":\"meta\",\"props\":{\"property\":\"og:title\",\"content\":\"多元宇宙：残障、科技与共建未来\"}}],\"settings\":{\"preventAutoRedirect\":false,\"keywords\":[]}}",
+      "translationsData": {
+        "default": "{\"tags\":[{\"type\":\"title\",\"children\":\"多元宇宙：残障、科技与共建未来\"},{\"type\":\"meta\",\"props\":{\"property\":\"og:title\",\"content\":\"多元宇宙：残障、科技与共建未来\"}}],\"settings\":{\"preventAutoRedirect\":false,\"keywords\":[]}}",
+        "en": "{\"tags\":[{\"type\":\"title\",\"children\":\"多元宇宙：残障、科技与共建未来\"},{\"type\":\"meta\",\"props\":{\"property\":\"og:title\",\"content\":\"多元宇宙：残障、科技与共建未来\"}}],\"settings\":{\"preventAutoRedirect\":false,\"keywords\":[]}}"
+      },
+      "tpaPageId": "",
+      "managingAppDefId": ""
+    },
+    "siteMembers": {
+      "componentIds": []
+    },
+    "siteWixCodeSdk": {
+      "pagesData": {
+        "r7oxi": {
+          "id": "r7oxi",
+          "title": "首页",
+          "pageFullPath": "blank",
+          "isPopup": false
+        },
+        "dmv9e": {
+          "id": "dmv9e",
+          "title": "无限身心",
+          "pageFullPath": "unrestrictedbodyminds",
+          "isPopup": false
+        },
+        "gvlqu": {
+          "id": "gvlqu",
+          "title": "隐藏人物Ⅰ",
+          "pageFullPath": "hiddenfigures",
+          "isPopup": false
+        },
+        "gahjv": {
+          "id": "gahjv",
+          "title": "隐藏人物Ⅱ",
+          "pageFullPath": "hiddenfigures2",
+          "isPopup": false
+        },
+        "c0o55": {
+          "id": "c0o55",
+          "title": "My Account",
+          "pageFullPath": "my-account",
+          "tpaPageId": "member_info",
+          "appDefinitionId": "14cffd81-5215-0a7f-22f8-074b0e2401fb",
+          "managingAppDefId": "14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9",
+          "isPopup": false
+        },
+        "dxy9i": {
+          "id": "dxy9i",
+          "title": "Event Details & Registration",
+          "pageFullPath": "events",
+          "tpaPageId": "events",
+          "appDefinitionId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "managingAppDefId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "isPopup": false
+        },
+        "g3ex6": {
+          "id": "g3ex6",
+          "title": "策展团队",
+          "pageFullPath": "teams",
+          "isPopup": false
+        },
+        "hiecz": {
+          "id": "hiecz",
+          "title": "Side Cart",
+          "pageFullPath": "popup-hiecz",
+          "tpaPageId": "ecom_side_cart",
+          "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "managingAppDefId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "isPopup": true
+        },
+        "jdkep": {
+          "id": "jdkep",
+          "title": "Checkout",
+          "pageFullPath": "checkout",
+          "tpaPageId": "checkout",
+          "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "managingAppDefId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "isPopup": false
+        },
+        "nleny": {
+          "id": "nleny",
+          "title": "开源未来",
+          "pageFullPath": "openfutures",
+          "isPopup": false
+        },
+        "qb2ym": {
+          "id": "qb2ym",
+          "title": "Schedule",
+          "pageFullPath": "schedule",
+          "tpaPageId": "Schedule",
+          "appDefinitionId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "managingAppDefId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "isPopup": false
+        },
+        "slcp3": {
+          "id": "slcp3",
+          "title": "Thank You Page",
+          "pageFullPath": "thank-you-page",
+          "tpaPageId": "thank_you_page",
+          "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "managingAppDefId": "13d21c63-b5ec-5912-8397-c3a5ddb27a97",
+          "isPopup": false
+        }
+      },
+      "nonPopupsPagesData": [
+        {
+          "id": "r7oxi",
+          "title": "首页",
+          "pageFullPath": "blank",
+          "isPopup": false
+        },
+        {
+          "id": "dmv9e",
+          "title": "无限身心",
+          "pageFullPath": "unrestrictedbodyminds",
+          "isPopup": false
+        },
+        {
+          "id": "gvlqu",
+          "title": "隐藏人物Ⅰ",
+          "pageFullPath": "hiddenfigures",
+          "isPopup": false
+        },
+        {
+          "id": "gahjv",
+          "title": "隐藏人物Ⅱ",
+          "pageFullPath": "hiddenfigures2",
+          "isPopup": false
+        },
+        {
+          "id": "c0o55",
+          "title": "My Account",
+          "pageFullPath": "my-account",
+          "tpaPageId": "member_info",
+          "appDefinitionId": "14cffd81-5215-0a7f-22f8-074b0e2401fb",
+          "managingAppDefId": "14cc59bc-f0b7-15b8-e1c7-89ce41d0e0c9",
+          "isPopup": false
+        },
+        {
+          "id": "dxy9i",
+          "title": "Event Details & Registration",
+          "pageFullPath": "events",
+          "tpaPageId": "events",
+          "appDefinitionId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "managingAppDefId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "isPopup": false
+        },
+        {
+          "id": "g3ex6",
+          "title": "策展团队",
+          "pageFullPath": "teams",
+          "isPopup": false
+        },
+        {
+          "id": "jdkep",
+          "title": "Checkout",
+          "pageFullPath": "checkout",
+          "tpaPageId": "checkout",
+          "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "managingAppDefId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "isPopup": false
+        },
+        {
+          "id": "nleny",
+          "title": "开源未来",
+          "pageFullPath": "openfutures",
+          "isPopup": false
+        },
+        {
+          "id": "qb2ym",
+          "title": "Schedule",
+          "pageFullPath": "schedule",
+          "tpaPageId": "Schedule",
+          "appDefinitionId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "managingAppDefId": "140603ad-af8d-84a5-2c80-a0f60cb47351",
+          "isPopup": false
+        },
+        {
+          "id": "slcp3",
+          "title": "Thank You Page",
+          "pageFullPath": "thank-you-page",
+          "tpaPageId": "thank_you_page",
+          "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+          "managingAppDefId": "13d21c63-b5ec-5912-8397-c3a5ddb27a97",
+          "isPopup": false
+        }
+      ],
+      "lightboxes": [
+        {
+          "name": "Side Cart",
+          "id": "hiecz",
+          "tpaPageId": "ecom_side_cart",
+          "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd"
+        }
+      ]
+    },
+    "svgLoader": {
+      "compIdToSvgDataMap": {
+        "comp-lp9yx0l0": {
+          "svgId": "11062b_bedbc64b23814bebb13f276af6224afa.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "ldg-220",
+                "autoGenerated": false
+              },
+              "id": "propItem-lp9yx1r91",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 596,
+              "height": 596
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zmt3": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3527"
+              },
+              "id": "propItem-lo095zmu1",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zmv": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3526"
+              },
+              "id": "propItem-lo095zmv2",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zmw": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3525"
+              },
+              "id": "propItem-lo095zmw2",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zmz3": {
+          "svgId": "909695c1e003409ba70b5561666c7c4d.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3522"
+              },
+              "id": "propItem-lo095zn01",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zot2": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3508"
+              },
+              "id": "propItem-lo095zou",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zou6": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3507"
+              },
+              "id": "propItem-lo095zov1",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zov7": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3506"
+              },
+              "id": "propItem-lo095zow1",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zoz1": {
+          "svgId": "909695c1e003409ba70b5561666c7c4d.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3504"
+              },
+              "id": "propItem-lo095zoz3",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zpb3": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3492"
+              },
+              "id": "propItem-lo095zpc1",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zpc7": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3491"
+              },
+              "id": "propItem-lo095zpd1",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lo095zpe1": {
+          "svgId": "f33fb02fc25547cf96d673e1c4e871a0.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "7wj-3490"
+              },
+              "id": "propItem-lo095zpe3",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        },
+        "comp-lp8a89ru": {
+          "svgId": "909695c1e003409ba70b5561666c7c4d.svg",
+          "componentType": "VectorImage",
+          "transformationOptions": {
+            "altText": "",
+            "strokeWidth": 0,
+            "properties": {
+              "type": "VectorImageProperties",
+              "metaData": {
+                "schemaVersion": "1.0",
+                "sig": "6ls-1224"
+              },
+              "id": "propItem-lp8a89s0",
+              "displayMode": "stretch",
+              "flip": "none"
+            },
+            "layout": {
+              "width": 34,
+              "height": 34
+            },
+            "shadow": {},
+            "overrideColors": {
+              "color1": "#1D67CD"
+            },
+            "isResponsive": false
+          }
+        }
+      },
+      "colorsMap": [
+        "#000000",
+        "#000000",
+        "#FFFFFF",
+        "#ED1C24",
+        "#0088CB",
+        "#FFCB05",
+        "#727272",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#727272",
+        "#B0B0B0",
+        "#474646",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#FFFFFF",
+        "#00544D",
+        "#1A887E",
+        "#00A99D",
+        "#8DD3CD",
+        "#AEE9E4",
+        "#41431D",
+        "#82863B",
+        "#C3C958",
+        "#D8DB9D",
+        "#EAEDC0",
+        "#3B382B",
+        "#767057",
+        "#B1A883",
+        "#EDE0AF",
+        "#F6EFD6",
+        "#291C24",
+        "#533948",
+        "#7C566D",
+        "#A88E9D",
+        "#D3BDCA",
+        "#474646",
+        "#FFFFFF",
+        "#767676",
+        "#A6A4A4",
+        "#DEDDDD",
+        "#00A99D",
+        "#FFFFFF",
+        "#A6A4A4",
+        "#474646",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#767676",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#A6A4A4",
+        "#A6A4A4",
+        "#474646",
+        "#474646",
+        "#00A99D",
+        "#474646",
+        "#00A99D",
+        "#00A99D",
+        "#474646",
+        "#474646",
+        "#A6A4A4",
+        "#A6A4A4"
+      ],
+      "mediaRootUrl": "https://static.wixstatic.com/",
+      "compIdToVectorArtPropsPaths": {}
+    },
+    "tpa": {
+      "widgets": {},
+      "tpaGalleriesImageItems": {},
+      "pageId": "r7oxi",
+      "hasWixTpaOnPage": false,
+      "tpaInnerRouteConfig": {},
+      "appPublicData": {},
+      "isFixedHeader": false,
+      "siteScale": 1
+    },
+    "triggersAndReactions": {
+      "compsToTriggers": {
+        "comp-lo095zld": {
+          "viewport-enter": {
+            "comp-lo095zld": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26p63",
+                      "id": "reactions-m2mtt26p69",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lp9yzp74": {
+          "viewport-enter": {
+            "comp-lp9yzp74": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26p33",
+                      "id": "reactions-m2mtt26p39",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lo095zlg": {
+          "viewport-enter": {
+            "comp-lo095zlg": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26p48",
+                      "id": "reactions-m2mtt26p54",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lo095zmx2": {
+          "viewport-enter": {
+            "comp-lo095zmx2": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26p18",
+                      "id": "reactions-m2mtt26p24",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lo095zn41": {
+          "viewport-enter": {
+            "comp-lo095zn41": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26p3",
+                      "id": "reactions-m2mtt26p9",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lo095zox1": {
+          "viewport-enter": {
+            "comp-lo095zox1": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26o48",
+                      "id": "reactions-m2mtt26o54",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lo095zp25": {
+          "viewport-enter": {
+            "comp-lo095zp25": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26o33",
+                      "id": "reactions-m2mtt26o39",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lo095zp81": {
+          "viewport-enter": {
+            "comp-lo095zp81": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26o18",
+                      "id": "reactions-m2mtt26o24",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "comp-lp8a89s3": {
+          "viewport-enter": {
+            "comp-lp8a89s3": [
+              {
+                "triggerBpRange": {},
+                "reactions": [
+                  {
+                    "type": "Play",
+                    "reactionData": {
+                      "effect": "effects-m2mtt26o3",
+                      "id": "reactions-m2mtt26o9",
+                      "once": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "compIdsWithAccessibleTrigger": [],
+      "isTouchDevice": false,
+      "repeaterDescendantToRepeaterMapper": {},
+      "compsToEffects": {},
+      "compEffectsToVariantId": {},
+      "variantIdToEffect": {},
+      "viewportTriggerCompsToParams": {
+        "comp-lo095zp81": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lo095zp25": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lp8a89s3": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lo095zox1": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lo095zmx2": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lp9yzp74": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lo095zn41": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lo095zlg": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        },
+        "comp-lo095zld": {
+          "threshold": 0.15,
+          "margin": {
+            "top": {
+              "value": 0,
+              "type": "px"
+            },
+            "bottom": {
+              "value": 0,
+              "type": "px"
+            },
+            "left": {
+              "value": 0,
+              "type": "px"
+            },
+            "right": {
+              "value": 0,
+              "type": "px"
+            }
+          }
+        }
+      },
+      "presetVariantsToReactionVariants": {},
+      "effectTriggerToReaction": {},
+      "scrubReactionWithBpRanges": [],
+      "scrubBpRanges": [],
+      "dynamicCompToDescendants": {},
+      "isMotionEnabled": true,
+      "breakpointsRanges": []
+    },
+    "windowScroll": {
+      "headerContainerComponentId": null
+    },
+    "windowWixCodeSdk": {
+      "isPopup": false,
+      "popupNameToPageId": {
+        "Side Cart": "hiecz"
+      },
+      "popupPageIdToName": {
+        "hiecz": "Side Cart"
+      },
+      "popupTpaPageIdToPageId": {
+        "ecom_side_cart": "hiecz"
+      },
+      "pageId": "r7oxi",
+      "templateIdToCompIdMap": {},
+      "appDefIdToCompIdsMap": {}
+    }
+  },
+  "nicknameToCompIdMaps": {}
+}
