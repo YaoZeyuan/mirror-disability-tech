@@ -13,7 +13,8 @@
     "coverage": "vitest run --coverage",
     "lint": "eslint . --fix",
     "lint:oxlint": "oxlint . --fix -D correctness --ignore-path .gitignore",
-    "ts": "vue-tsc --build --force"
+    "ts": "vue-tsc --build --force",
+    "demo": "cd demo && node demo/index.js"
   },
   "dependencies": {
     "@unhead/vue": "^2.1.12",
